@@ -2,7 +2,7 @@
 
 Dieses Repositorium enthält den digitalen Anhang zum Buch 
 [Computerlinguistische Methoden für die Digital Humanities](
-https://www.narr.de/computerlinguistische-methoden-f%C3%BCr-die-digital-humanities-18579-1/)
+https://www.narr.de/computerlinguistische-methoden-f%C3%BCr-die-digital-humanities-18579-1/).
 Es umfasst die Beispielskripte und Musterlösungen zu den Übungen im Buch. Für viele Aufgaben werden mehrere alternative
 Beispielskripte angeboten, die unterschiedliche Bibliotheken nutzen.
 
