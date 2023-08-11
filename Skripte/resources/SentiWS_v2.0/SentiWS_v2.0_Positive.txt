@@ -1,7 +1,7 @@
 Abmachung|NN	0.0040	Abmachungen
 Abschluß|NN	0.0040	Abschluss,Abschlusse,Abschlusses,Abschlüsse,Abschlüssen
 Abstimmung|NN	0.0040	Abstimmungen
-Agilität|NN	0.0040	
+Agilität|NN	0.0040
 Aktivität|NN	0.0040	Aktivitäten
 Aktualisierung|NN	0.0040	Aktualisierungen
 Aktualität|NN	0.0040	Aktualitäten
@@ -9,9 +9,9 @@ Akzeptanz|NN	0.0040	Akzeptanzen
 Andrang|NN	0.0040	Andrangs,Andranges,Andrange
 Anerkennung|NN	0.0855	Anerkennungen
 Angebot|NN	0.0711	Angeboten,Angebote,Angebots,Angebotes
-Angemessenheit|NN	0.0040	
+Angemessenheit|NN	0.0040
 Anhebung|NN	0.0040	Anhebungen
-Anheiterung|NN	0.0040	
+Anheiterung|NN	0.0040
 Ankurbelung|NN	0.0040	Ankurbelungen
 Annehmlichkeit|NN	0.0040	Annehmlichkeiten
 Annäherung|NN	0.0040	Annäherungen
@@ -21,17 +21,17 @@ Anreicherung|NN	0.0040	Anreicherungen
 Anspruch|NN	0.0040	Anspruchs,Anspruches,Ansprüchen,Ansprüche
 Anstand|NN	0.0040	Anstands,Anständen,Anstände,Anstandes
 Anstieg|NN	0.0040	Anstiegen,Anstiegs,Anstiege,Anstieges
-Anständigkeit|NN	0.0040	
+Anständigkeit|NN	0.0040
 Anteil|NN	0.0040	Anteilen,Anteiles,Anteils,Anteile
 Anziehung|NN	0.0040	Anziehungen
 Applaus|NN	0.0871	Applausen,Applause,Applauses
-Attraktivität|NN	0.0040	
+Attraktivität|NN	0.0040
 Aufbereitung|NN	0.0040	Aufbereitungen
 Aufbesserung|NN	0.0040	Aufbesserungen
 Auferstehung|NN	0.0040	Auferstehungen
 Aufmerksamkeit|NN	0.0040	Aufmerksamkeiten
 Aufmunterung|NN	0.0040	Aufmunterungen
-Aufrichtigkeit|NN	0.0040	
+Aufrichtigkeit|NN	0.0040
 Aufschwung|NN	0.0040	Aufschwüngen,Aufschwungs,Aufschwunges,Aufschwünge,Aufschwunge
 Aufstieg|NN	0.0040	Aufstiegen,Aufstiege,Aufstiegs,Aufstieges
 Aufstockung|NN	0.0040	Aufstockungen
@@ -42,11 +42,11 @@ Aufwärtstrend|NN	0.0040	Aufwärtstrends
 Augenweide|NN	0.0844	Augenweiden
 Ausbau|NN	0.0040	Ausbaues,Ausbaus
 Ausbildung|NN	0.0040	Ausbildungen
-Ausdauer|NN	0.0886	
+Ausdauer|NN	0.0886
 Ausgleich|NN	0.0040	Ausgleichen,Ausgleichs,Ausgleiches,Ausgleiche
 Ausgleichszahlung|NN	0.0040	Ausgleichszahlungen
 Auszeichnung|NN	0.0040	Auszeichnungen
-Authentizität|NN	0.0040	
+Authentizität|NN	0.0040
 Autonomie|NN	0.0040	Autonomien
 Bedeutung|NN	0.0040	Bedeutungen
 Befreiung|NN	0.0040	Befreiungen
@@ -58,19 +58,19 @@ Begünstigung|NN	0.0040	Begünstigungen
 Beifall|NN	0.3265	Beifalles,Beifalls,Beifalle
 Beifallsruf|NN	0.0040	Beifallsrufen,Beifallsrufes,Beifallsrufe,Beifallsrufs
 Beilegung|NN	0.0040	Beilegungen
-Beisteuerung|NN	0.0040	
+Beisteuerung|NN	0.0040
 Beitritt|NN	0.0040	Beitritten,Beitritts,Beitritte,Beitrittes
 Bekräftigung|NN	0.0040	Bekräftigungen
 Belastbarkeit|NN	0.0040	Belastbarkeiten
-Belebtheit|NN	0.0040	
-Beliebtheit|NN	0.0040	
+Belebtheit|NN	0.0040
+Beliebtheit|NN	0.0040
 Belohnung|NN	0.0813	Belohnungen
 Benefiz|NN	0.0040	Benefizes,Benefizen,Benefize
 Bereicherung|NN	0.0040	Bereicherungen
 Bereitschaft|NN	0.0040	Bereitschaften
 Bereitstellung|NN	0.0040	Bereitstellungen
 Beruhigung|NN	0.0040	Beruhigungen
-Bescheidenheit|NN	0.0852	
+Bescheidenheit|NN	0.0852
 Beschleunigung|NN	0.0040	Beschleunigungen
 Beschwichtigung|NN	0.0040	Beschwichtigungen
 Besitz|NN	0.0040	Besitzes,Besitzs
@@ -84,8 +84,8 @@ Blüte|NN	0.0040	Blüten
 Bonität|NN	0.0040	Bonitäten
 Bonus|NN	0.0040	Bonussen,Bonusses,Boni,Bonusse,Bonussen
 Boom|NN	0.0040	Booms
-Brillanz|NN	0.0040	
-Brüderlichkeit|NN	0.0040	
+Brillanz|NN	0.0040
+Brüderlichkeit|NN	0.0040
 Bund|NN	0.0040	Bünden,Bundes,Bunds,Bunde,Bünde
 Bündnis|NN	0.0040	Bündnisse,Bündnisses,Bündnissen
 Champion|NN	0.0040	Champions
@@ -93,32 +93,32 @@ Charisma|NN	0.0040	Charismas,Charismata,Charismen
 Charme|NN	0.0040	Charmes
 Cleverness|NN	0.0040	Cleverneß
 Comeback|NN	0.0712	Comebacks
-Dankbarkeit|NN	0.0040	
-Diskretion|NN	0.0040	
+Dankbarkeit|NN	0.0040
+Diskretion|NN	0.0040
 Disziplin|NN	0.0611	Disziplinen
 Duft|NN	0.2149	Duftes,Düfte,Dufts,Düften,Dufte
 Dynamik|NN	0.0040	Dynamiken
-Echtheit|NN	0.0040	
+Echtheit|NN	0.0040
 Effizienz|NN	0.0040	Effizienzen
 Ehre|NN	0.0732	Ehren
-Ehrfurcht|NN	0.0040	
-Ehrlichkeit|NN	0.0040	
+Ehrfurcht|NN	0.0040
+Ehrlichkeit|NN	0.0040
 Ehrwürdigkeit|NN	0.0040	Ehrwürdigkeiten
 Eifer|NN	0.0040	,Eifers
 Eigenkapital|NN	0.0040	Eigenkapitals,Eigenkapitalien,Eigenkapitale,Eigenkapitalen
-Eignung|NN	0.0040	
+Eignung|NN	0.0040
 Eindeutigkeit|NN	0.0040	Eindeutigkeiten
 Einfallsreichtum|NN	0.0040	Einfallsreichtums
-Einhaltung|NN	0.0040	
+Einhaltung|NN	0.0040
 Einheit|NN	0.0040	Einheiten
-Einheitlichkeit|NN	0.0040	
+Einheitlichkeit|NN	0.0040
 Einkauf|NN	0.0040	Einkäufen,Einkäufe,Einkaufes,Einkaufs,Einkaufe
 Einnahme|NN	0.0040	Einnahmen
 Einsparung|NN	0.0040	Einsparungen
 Einweihung|NN	0.0040	Einweihungen
-Einzigartigkeit|NN	0.0040	
-Eleganz|NN	0.0040	
-Empathie|NN	0.0040	
+Einzigartigkeit|NN	0.0040
+Eleganz|NN	0.0040
+Empathie|NN	0.0040
 Empfehlung|NN	0.0040	Empfehlungen
 Engagement|NN	0.2157	Engagements
 Entlastung|NN	0.0040	Entlastungen
@@ -133,9 +133,9 @@ Erfahrung|NN	0.0040	Erfahrungen
 Erfolg|NN	0.3446	Erfolgs,Erfolge,Erfolgen,Erfolges
 Erfolgserlebnis|NN	0.0884	Erfolgserlebnisses,Erfolgserlebnissen,Erfolgserlebnisse
 Erfüllung|NN	0.0040	Erfüllungen
-Ergiebigkeit|NN	0.0040	
+Ergiebigkeit|NN	0.0040
 Ergänzung|NN	0.0040	Ergänzungen
-Erhaltung|NN	0.0040	
+Erhaltung|NN	0.0040
 Erholung|NN	0.0865	Erholungen
 Erhöhung|NN	0.0040	Erhöhungen
 Erlaubnis|NN	0.0040	Erlaubnisse,Erlaubnissen
@@ -144,7 +144,7 @@ Erleuchtung|NN	0.0040	Erleuchtungen
 Erlösung|NN	0.0040	Erlösungen
 Ermutigung|NN	0.0040	Ermutigungen
 Erneuerung|NN	0.0040	Erneuerungen
-Ernsthaftigkeit|NN	0.0040	
+Ernsthaftigkeit|NN	0.0040
 Ersparnis|NN	0.0040	Ersparnisse,Ersparnissen
 Ertrag|NN	0.0040	Erträgen,Ertrags,Erträge,Ertrages,Ertrage
 Erweiterung|NN	0.0040	Erweiterungen
@@ -152,20 +152,20 @@ Erzeugnis|NN	0.0040	Erzeugnissen,Erzeugnisses,Erzeugnisse
 Experte|NN	0.0040	Experten
 Expertise|NN	0.0040	Expertisen
 Exzellenz|NN	0.0040	Exzellenzen
-Fairness|NN	0.0040	
-Faszination|NN	0.0040	
+Fairness|NN	0.0040
+Faszination|NN	0.0040
 Favorit|NN	0.0040	Favoriten
 Feier|NN	0.0829	Feiern
 Fertigkeit|NN	0.0040	Fertigkeiten
 Fest|NN	0.2346	Festes,Fests,Feste,Festen
 Festakt|NN	0.0040	Festakts,Festaktes,Festakte,Festakten
-Festigkeit|NN	0.0040	
+Festigkeit|NN	0.0040
 Festlichkeit|NN	0.0040	Festlichkeiten
 Finanzierung|NN	0.0040	Finanzierungen
-Fitness|NN	0.0851	
+Fitness|NN	0.0851
 Flair|NN	0.2216	Flairs
 Fleiß|NN	0.3113	Fleißes,Fleißs
-Flexibilität|NN	0.0040	
+Flexibilität|NN	0.0040
 Fortschritt|NN	0.0040	Fortschritte,Fortschrittes,Fortschritts,Fortschritten
 Freiheit|NN	0.0040	Freiheiten
 Freispruch|NN	0.0040	Freisprüchen,Freisprüche,Freispruches,Freispruchs,Freispruche
@@ -174,9 +174,9 @@ Freund|NN	0.0116	Freunden,Freundes,Freunde,Freunds
 Freundlichkeit|NN	0.0913	Freundlichkeiten
 Freundschaft|NN	0.2059	Freundschaften
 Frieden|NN	0.0040	Friedens
-Fruchtbarkeit|NN	0.0040	
+Fruchtbarkeit|NN	0.0040
 Funktionsfähigkeit|NN	0.0040	Funktionsfähigkeiten
-Furchtlosigkeit|NN	0.0040	
+Furchtlosigkeit|NN	0.0040
 Fähigkeit|NN	0.0892	Fähigkeiten
 Förderung|NN	0.0829	Förderungen
 Führung|NN	0.0040	Führungen
@@ -185,26 +185,26 @@ Gabe|NN	0.0747	Gaben
 Garantie|NN	0.0040	Garantien
 Gastfreundlichkeit|NN	0.0040	Gastfreundlichkeiten
 Gedenken|NN	0.0040	Gedenkens
-Geduld|NN	0.0789	
+Geduld|NN	0.0789
 Gefallen|NN	0.3349	Gefallens
 Gehaltszulage|NN	0.0040	Gehaltszulagen
-Gelassenheit|NN	0.0721	
+Gelassenheit|NN	0.0721
 Geldgeber|NN	0.0040	Geldgebers,Geldgebern
 Gemeinschaft|NN	0.0040	Gemeinschaften
-Genauigkeit|NN	0.0040	
+Genauigkeit|NN	0.0040
 Genehmigung|NN	0.0040	Genehmigungen
 Genesung|NN	0.0040	Genesungen
-Genialität|NN	0.0040	
+Genialität|NN	0.0040
 Genie|NN	0.0697	Genies
 Genuss|NN	0.0701	Genusse,Genusses,Genüsse,Genüssen
 Genuß|NN	0.073	Genusse,Genusses,Genüsse,Genüssen
-Gerechtigkeit|NN	0.0040	
-Geräumigkeit|NN	0.0040	
+Gerechtigkeit|NN	0.0040
+Geräumigkeit|NN	0.0040
 Geschenk|NN	0.4792	Geschenken,Geschenks,Geschenkes,Geschenke
 Geschick|NN	0.0040	Geschicke,Geschicks,Geschickes,Geschicken
-Geschicklichkeit|NN	0.0040	
-Gesundheit|NN	0.0040	
-Gesundung|NN	0.0040	
+Geschicklichkeit|NN	0.0040
+Gesundheit|NN	0.0040
+Gesundung|NN	0.0040
 Gewinn|NN	0.0040	Gewinns,Gewinnen,Gewinne,Gewinnes
 Gewinner|NN	0.0040	Gewinnern,Gewinners
 Gewährleistung|NN	0.0040	Gewährleistungen
@@ -221,12 +221,12 @@ Gratulation|NN	0.428	Gratulationen
 Grenzenlosigkeit|NN	0.0040	Grenzenlosigkeiten
 Großzügigigkeit|NN	0.0040	Großzügigigkeiten
 Größe|NN	0.0040	Größen
-Gründlichkeit|NN	0.0040	
+Gründlichkeit|NN	0.0040
 Gunst|NN	0.0040	Gunsten
 Gönner|NN	0.0040	Gönnern,Gönners
-Gönnerschaft|NN	0.0040	
+Gönnerschaft|NN	0.0040
 Gültigkeit|NN	0.0040	Gültigkeiten
-Güte|NN	0.0040	
+Güte|NN	0.0040
 Hammer|NN	0.0040	Hämmern,Hammers,Hämmer
 Harmonie|NN	0.0795	Harmonien
 Harmonisierung|NN	0.0040	Harmonisierungen
@@ -234,7 +234,7 @@ Hartnäckigkeit|NN	0.0040	Hartnäckigkeiten
 Heiligtum|NN	0.0040	,Heiligtümern,Heiligtümer,Heiligtums
 Heilung|NN	0.0040	Heilungen
 Heirat|NN	0.0040	Heiraten
-Heiterkeit|NN	0.0040	
+Heiterkeit|NN	0.0040
 Helligkeit|NN	0.0040	Helligkeiten
 Herrlichkeit|NN	0.0040	Herrlichkeiten
 Highlight|NN	0.0040	Highlights
@@ -243,9 +243,9 @@ Hilfsbereitschaft|NN	0.0040	Hilfsbereitschaften
 Hingabe|NN	0.0040	Hingaben
 Hochdruckgebiet|NN	0.0040	Hochdruckgebiete,Hochdruckgebiets,Hochdruckgebieten,Hochdruckgebietes
 Hochruf|NN	0.0040	Hochrufes,Hochrufen,Hochrufs,Hochrufe
-Hochwertigkeit|NN	0.0040	
+Hochwertigkeit|NN	0.0040
 Hoffnung|NN	0.2038	Hoffnungen
-Humanität|NN	0.0040	
+Humanität|NN	0.0040
 Humor|NN	0.3296	Humoren,Humore,Humors
 Hurra|NN	0.0040	Hurras
 Hurrageschrei|NN	0.0040	Hurrageschreis
@@ -254,7 +254,7 @@ Höhepunkt|NN	0.0040	Höhepunkten,Höhepunktes,Höhepunkts,Höhepunkte
 Individualität|NN	0.0040	Individualitäten
 Innovation|NN	0.0040	Innovationen
 Inspiration|NN	0.0040	Inspirationen
-Integrität|NN	0.0040	
+Integrität|NN	0.0040
 Intellekt|NN	0.0040	Intellekts,Intellekten,Intellektes,Intellekte
 Intelligenz|NN	0.0040	Intelligenzen
 Interesse|NN	0.0040	Interesses,Interessen
@@ -275,35 +275,35 @@ Konjunkturaufschwung|NN	0.0040	Konjunkturaufschwünge,Konjunkturaufschwungs,Konj
 Konsens|NN	0.0040	Konsense,Konsensen,Konsenses
 Konsistenz|NN	0.0040	Konsistenzen
 Konsolidierung|NN	0.0040	Konsolidierungen
-Konstanz|NN	0.0040	
+Konstanz|NN	0.0040
 Konsultation|NN	0.0040	Konsultationen
-Kontinuität|NN	0.0040	
+Kontinuität|NN	0.0040
 Kooperation|NN	0.0040	Kooperationen
 Koordinierung|NN	0.0040	Koordinierungen
-Korrektheit|NN	0.0040	
+Korrektheit|NN	0.0040
 Korrektur|NN	0.0040	Korrekturen
 Kostbarkeit|NN	0.0040	Kostbarkeiten
 Kraft|NN	0.0040	Kräfte,Kräften
-Kreativität|NN	0.0768	
-Kulanz|NN	0.0040	
+Kreativität|NN	0.0768
+Kulanz|NN	0.0040
 Kur|NN	0.0859	Kuren
-Langlebigkeit|NN	0.0040	
+Langlebigkeit|NN	0.0040
 Laune|NN	0.1085	Launen
 Lebensfähigkeit|NN	0.0040	Lebensfähigkeiten
-Legalität|NN	0.0040	
-Legitimität|NN	0.0040	
-Leichtigkeit|NN	0.1725	
+Legalität|NN	0.0040
+Legitimität|NN	0.0040
+Leichtigkeit|NN	0.1725
 Leidenschaft|NN	0.0040	Leidenschaften
 Leistung|NN	0.0040	Leistungen
 Leistungsfähigkeit|NN	0.0040	Leistungsfähigkeiten
-Liberalismus|NN	0.0040	
+Liberalismus|NN	0.0040
 Liebe|NN	0.0985	Lieben
 Liebling|NN	0.0873	Lieblings,Lieblinge,Lieblingen
 Linderung|NN	0.0040	Linderungen
 Lob|NN	0.7246	Loben,Lobs,Lobes,Lobe
 Lohn|NN	0.0040	Löhne,Löhnen,Lohns,Lohnes
 Loyalität|NN	0.0040	Loyalitäten
-Luxus|NN	0.0040	
+Luxus|NN	0.0040
 Lösung|NN	0.0040	Lösungen
 Macht|NN	0.0040	Mächten,Mächte
 Magie|NN	0.0040	Magien
@@ -311,50 +311,50 @@ Majestät|NN	0.0040	Majestäten
 Maximum|NN	0.0040	Maximums,Maxima
 Meisterschaft|NN	0.0040	Meisterschaften
 Meisterwerk|NN	0.0040	Meisterwerken,Meisterwerks,Meisterwerkes,Meisterwerke
-Menschenwürde|NN	0.0040	
+Menschenwürde|NN	0.0040
 Menschlichkeit|NN	0.0040	Menschlichkeiten
-Milde|NN	0.0040	
+Milde|NN	0.0040
 Mitgefühl|NN	0.0040	Mitgefühles,Mitgefühls
-Mobilität|NN	0.0040	
+Mobilität|NN	0.0040
 Modernisierung|NN	0.0040	Modernisierungen
 Modernität|NN	0.0040	Modernitäten
 Moral|NN	0.0040	Moralen
 Motivation|NN	0.0040	Motivationen
 Mut|NN	0.6093	Muts,Mutes
 Möglichkeit|NN	0.0040	Möglichkeiten
-Nachhaltigkeit|NN	0.0040	
+Nachhaltigkeit|NN	0.0040
 Nutzen|NN	0.0040	Nutzens
-Nähe|NN	0.0911	
+Nähe|NN	0.0911
 Oase|NN	0.0040	Oasen
-Optimalität|NN	0.0040	
-Optimismus|NN	0.0882	
+Optimalität|NN	0.0040
+Optimismus|NN	0.0882
 Optimist|NN	0.0836	Optimisten
-Ordnungsmäßigkeit|NN	0.0040	
+Ordnungsmäßigkeit|NN	0.0040
 Originalität|NN	0.0040	Originalitäten
 Pannenhilfe|NN	0.0040	Pannenhilfen
 Paradies|NN	0.0040	Paradieses,Paradiesen,Paradiese
 Partner|NN	0.0040	Partners,Partnern
 Partnerschaft|NN	0.0779	Partnerschaften
 Perfektion|NN	0.0040	Perfektionen
-Perfektionismus|NN	0.0040	
+Perfektionismus|NN	0.0040
 Perfektionist|NN	0.0040	Perfektionisten
-Pflege|NN	0.0040	
+Pflege|NN	0.0040
 Phantasie|NN	0.075	Phantasien
-Plausibilität|NN	0.0040	
-Positivität|NN	0.0040	
+Plausibilität|NN	0.0040
+Positivität|NN	0.0040
 Potenz|NN	0.0040	Potenzen
-Pracht|NN	0.0040	
-Praktikabilität|NN	0.0040	
-Premium|NN	0.0040	
+Pracht|NN	0.0040
+Praktikabilität|NN	0.0040
+Premium|NN	0.0040
 Prestige|NN	0.0040	Prestiges
 Privileg|NN	0.0040	Privilege,Privileges,Privilegs,Privilegien
-Produktivität|NN	0.0040	
+Produktivität|NN	0.0040
 Profit|NN	0.0040	Profite,Profites,Profits,Privilegien
 Progression|NN	0.0040	Progressionen
-Prächtigkeit|NN	0.0040	
+Prächtigkeit|NN	0.0040
 Präferenz|NN	0.0040	Präferenzen
-Präzision|NN	0.0040	
-Pünktlichkeit|NN	0.0040	
+Präzision|NN	0.0040
+Pünktlichkeit|NN	0.0040
 Qualifikation|NN	0.0040	Qualifikationen
 Qualität|NN	0.0040	Qualitäten
 Qualitätsverbesserung|NN	0.0040	Qualitätsverbesserungen
@@ -364,53 +364,53 @@ Rechtmäßigkeit|NN	0.0040	Rechtmäßigkeiten
 Rechtsgültigkeit|NN	0.0040	Rechtsgültigkeiten
 Rehabilitation|NN	0.0040	Rehabilitationen
 Reichtum|NN	0.0040	Reichtumes,Reichtums,Reichtümer,Reichtümern
-Reinheit|NN	0.0040	
+Reinheit|NN	0.0040
 Reinigung|NN	0.0040	Reinigungen
 Relevanz|NN	0.0040	Relevanzen
 Renovierung|NN	0.0040	Renovierungen
-Rentabilität|NN	0.0040	
+Rentabilität|NN	0.0040
 Reparatur|NN	0.0040	Reparaturen
 Respekt|NN	0.0040	Respekte,Respekts,Respektes
 Rettung|NN	0.0707	Rettungen
-Robustheit|NN	0.0040	
-Romantik|NN	0.0688	
-Ruhe|NN	0.5017	
+Robustheit|NN	0.0040
+Romantik|NN	0.0688
+Ruhe|NN	0.5017
 Ruhm|NN	0.0040	Ruhms,Ruhmes
-Rückendeckung|NN	0.0040	
+Rückendeckung|NN	0.0040
 Rückgrat|NN	0.0040	Rückgrate,Rückgrats,Rückgrates,Rückgraten
 Rücksicht|NN	0.0040	Rücksichten
 Rückversicherung|NN	0.0040	Rückversicherungen
-Sauberkeit|NN	0.0755	
+Sauberkeit|NN	0.0755
 Schatz|NN	0.1096	Schätze,Schatzes,Schätzen,Schatze
 Schenkung|NN	0.0040	Schenkungen
 Schirmherr|NN	0.0040	Schirmherren
 Schirmherrschaft|NN	0.0040	Schirmherrschaften
-Schlauheit|NN	0.0040	
+Schlauheit|NN	0.0040
 Schmuck|NN	0.0040	Schmucks,Schmucken,Schmuckes,Schmucke
 Schnelligkeit|NN	0.0040	Schnelligkeiten
 Schnäppchen|NN	0.0040	Schnäppchens
-Schuldlosigkeit|NN	0.0040	
+Schuldlosigkeit|NN	0.0040
 Schutz|NN	0.0040	Schutze,Schutzes,Schutzen
 Schutzmaßnahme|NN	0.0040	Schutzmaßnahmen
 Schwung|NN	0.238	Schwunges,Schwungs,Schwüngen,Schwünge,Schwunge
 Schönheit|NN	0.3286	Schönheiten
 Selbstständigkeit|NN	0.0040	Selbstständigkeiten
 Sensation|NN	0.0040	Sensationen
-Seriösität|NN	0.0040	
+Seriösität|NN	0.0040
 Sicherheit|NN	0.0040	Sicherheiten
 Siegeszug|NN	0.0040	Siegeszuges,Siegeszüge,Siegeszugs,Siegeszügen,Siegeszuge
 Sinn|NN	0.0040	Sinns,Sinne,Sinnes,Sinnen
-Solidarität|NN	0.0040	
-Sorgfältigkeit|NN	0.0040	
-Sorglosigkeit|NN	0.0040	
+Solidarität|NN	0.0040
+Sorgfältigkeit|NN	0.0040
+Sorglosigkeit|NN	0.0040
 Sparsamkeit|NN	0.0040	Sparsamkeiten
 Spaß|NN	0.2823	Spaße,Spaßes,Späße,Späßen
 Spende|NN	0.0040	Spenden
 Spezialität|NN	0.0040	Spezialitäten
 Sprung|NN	0.0040	Sprüngen,Sprunges,Sprünge,Sprungs,Sprunge
-Stabilität|NN	0.0040	
-Standhaftigkeit|NN	0.0040	
-Stattlichkeit|NN	0.0040	
+Stabilität|NN	0.0040
+Standhaftigkeit|NN	0.0040
+Stattlichkeit|NN	0.0040
 Steigerung|NN	0.0040	Steigerungen
 Steigflug|NN	0.0040	Steigfluge,Steigfluges,Steigflugs,Steigflüge,Steigflügen
 Stifter|NN	0.0040	Stifters,Stiftern
@@ -428,20 +428,20 @@ Sympathie|NN	0.0040	Symphatien
 Talent|NN	0.3352	Talents,Talenten,Talentes,Talente
 Toleranz|NN	0.0040	Toleranzen
 Tradition|NN	0.0040	Traditionen
-Treue|NN	0.2019	
+Treue|NN	0.2019
 Triumph|NN	0.0040	Triumphen,Triumphes,Triumphe,Triumphs
 Trophäe|NN	0.0040	Trophäen
 Trost|NN	0.0706	Trosts,Trostes
 Umbruch|NN	0.0040	Umbruches,Umbrüche,Umbruchs,Umbrüchen
 Unabhängigkeit|NN	0.0040	Unabhängigkeiten
-Unbesiegbarkeit|NN	0.0040	
-Unerschrockenheit|NN	0.0040	
-Unfehlbarkeit|NN	0.0040	
-Unparteilichkeit|NN	0.0040	
-Unschuld|NN	0.0040	
-Unsterblichkeit|NN	0.0040	
+Unbesiegbarkeit|NN	0.0040
+Unerschrockenheit|NN	0.0040
+Unfehlbarkeit|NN	0.0040
+Unparteilichkeit|NN	0.0040
+Unschuld|NN	0.0040
+Unsterblichkeit|NN	0.0040
 Unterstützung|NN	0.0040	Unterstützungen
-Unverwundbarkeit|NN	0.0040	
+Unverwundbarkeit|NN	0.0040
 Unverzichtbarkeit|NN	0.0040	Unverzichtbarkeiten
 Unwiderstehlichkeit|NN	0.0040	Unwiderstehlichkeiten
 Upgrade|NN	0.0040	Upgrades
@@ -466,7 +466,7 @@ Verhandelung|NN	0.0040	Verhandelungen
 Verlobung|NN	0.0040	Verlobungen
 Verlöbnis|NN	0.0040	Verlöbnisse,Verlöbsnisses,Verlöbnissen
 Vermittlung|NN	0.0040	Vermittlungen
-Vernunft|NN	0.0040	
+Vernunft|NN	0.0040
 Verschönerung|NN	0.0040	Verschönerungen
 Versicherung|NN	0.0040	Versicherungen
 Versprechen|NN	0.0040	Versprechens
@@ -484,28 +484,28 @@ Vertrautheit|NN	0.0040	Vertrautheiten
 Verwendbarkeit|NN	0.0040	Verwendbarkeiten
 Verwirklichung|NN	0.0040	Verwirklichungen
 Vielseitigkeit|NN	0.0040	Vielseitigkeiten
-Vielzahl|NN	0.0040	
+Vielzahl|NN	0.0040
 Visionär|NN	0.0040	Visionäres,Visionäre,Visionärs,Visionären
-Vitalität|NN	0.0040	
-Vollständigkeit|NN	0.0040	
+Vitalität|NN	0.0040
+Vollständigkeit|NN	0.0040
 Vorbereitung|NN	0.0040	Vorbereitungen
-Vorsicht|NN	0.0040	
+Vorsicht|NN	0.0040
 Vorsorge|NN	0.0040	Vorsorgen
 Vorteil|NN	0.0040	Vorteilen,Vorteils,Vorteiles,Vorteile
-Wachsamkeit|NN	0.0040	
+Wachsamkeit|NN	0.0040
 Wachstum|NN	0.0040	Wachstums
 Wahrheit|NN	0.0040	Wahrheiten
 Weichheit|NN	0.0040	Weichheiten
 Weisheit|NN	0.0040	Weisheiten
-Weitsichtigkeit|NN	0.0040	
+Weitsichtigkeit|NN	0.0040
 Wert|NN	0.0040	Werte,Wertes,Werts,Werten
 Wertschätzung|NN	0.0040	Wertschätzungen
 Wertsteigerung|NN	0.0040	Wertsteigerungen
-Widerstandsfähigkeit|NN	0.0040	
+Widerstandsfähigkeit|NN	0.0040
 Wiederbelebung|NN	0.0040	Wiederbelebungen
 Wiedergutmachung|NN	0.0040	Wiedergutmachungen
 Wiederherstellung|NN	0.0040	Wiederherstellungen
-Wiederkehr|NN	0.0040	
+Wiederkehr|NN	0.0040
 Wiedervereinigung|NN	0.0040	Wiedervereinigungen
 Wille|NN	0.0040	Willen,Willens
 Wirksamkeit|NN	0.0040	Wirksamkeiten
@@ -519,23 +519,23 @@ Wohltäter|NN	0.0040	Wohltäters,Wohltätern
 Wohltätigkeit|NN	0.0040	Wohltätigkeiten
 Wohlwollen|NN	0.0040	Wohlwollens
 Wunder|NN	0.0741	Wundern,Wunders
-Wärme|NN	0.0040	
+Wärme|NN	0.0040
 Zenit|NN	0.0040	Zenites,Zeniten,Zenits,Zenite
 Ziel|NN	0.0040	Ziels,Ziele,Zieles,Zielen
 Zuflucht|NN	0.0040	Zufluchten
-Zufriedenheit|NN	0.2207	
+Zufriedenheit|NN	0.2207
 Zugabe|NN	0.0882	Zugaben
-Zugänglichkeit|NN	0.0040	
+Zugänglichkeit|NN	0.0040
 Zulage|NN	0.0040	Zulagen
-Zulässigkeit|NN	0.0040	
+Zulässigkeit|NN	0.0040
 Zuneigung|NN	0.0040	Zuneigungen
 Zusammenarbeit|NN	0.0893	Zusammenarbeiten
-Zusammengehörigkeit|NN	0.0040	
+Zusammengehörigkeit|NN	0.0040
 Zusammenhalt|NN	0.1947	Zusammenhaltes,Zusammenhalte,Zusammenhalts,Zusammenhalten
 Zuschuß|NN	0.0040	Zuschüße,Zuschußes,Zuschüßen,Zuschußs
 Zustimmung|NN	0.0040	Zustimmungen
-Zuverlässigkeit|NN	0.0040	
-Zuversicht|NN	0.0727	
+Zuverlässigkeit|NN	0.0040
+Zuversicht|NN	0.0727
 abgesichert|ADJX	0.0040	abgesicherte,abgesichertem,abgesicherten,abgesicherter,abgesichertes,abgesichertere,abgesicherterem,abgesicherteren,abgesicherterer,abgesicherteres,abgesichertste,abgesichertstem,abgesichertsten,abgesichertster,abgesichertstes
 abmachen|VVINF	0.0040	abgemacht,abmachst,abmachet,abmachten,abmacht,abmache,abmachtest,abmachte,abmachest,abmachtet
 abschließen|VVINF	0.0040	abschließe,abschließt,abschließest,abschließet,abschloss,abschloß,abschlossest,abschlosst,abschloßt,abschlossen,abschlösse,abschlössest,abschlössen,abschlösset,abgeschlossen
@@ -598,7 +598,7 @@ aufstocken|VVINF	0.0040	aufgestockt,aufstocket,aufstockest,aufstockten,aufstockt
 auftreiben|VVINF	0.0040	auftreibe,auftreibst,auftreibt,auftreibest,auftreibet,auftrieb,auftreibst,auftrieben,auftriebt,auftriebe,auftriebest,auftriebet,aufgetrieben
 aufwendig|ADJX	0.0040	aufwendiger,aufwendiges,aufwendigem,aufwendigere,aufwendigstem,aufwendigen,aufwendigsten,aufwendigerer,aufwendigeres,aufwendigste,aufwendigerem,aufwendigeren,aufwendige,aufwendigster,aufwendigstes
 aufwerten|VVINF	0.0040	aufwerte,aufwertest,aufwertet,aufwertete,aufwertetest,aufwerteten,aufwertetet,aufgewertet
-aufwärts|ADV	0.0040	
+aufwärts|ADV	0.0040
 ausbauen|VVINF	0.0040	ausbaue,ausbaut,ausbautest,ausbauten,ausbauet,ausbaute,ausgebaut,ausbaust,ausbauest,ausbautet
 ausbilden|VVINF	0.0040	ausbildete,ausgebildet,ausbildet,ausbildte,ausbildten,ausbildeten,ausbildtet,ausbildest,ausbildetest,ausbildetet,ausbildtest,ausbilde
 ausdauern|VVINF	0.0040	ausdauere,ausdauerst,ausdauert,ausdauerte,ausdauertest,ausdauerten,ausdauertet,ausgedauert
@@ -680,12 +680,12 @@ beschleunigen|VVINF	0.0040	beschleunigst,beschleuniget,beschleunigtest,beschleun
 beschwichtigen|VVINF	0.0040	beschwichtigten,beschwichtigest,beschwichtigst,beschwichtiget,beschwichtigte,beschwichtige,beschwichtigtest,beschwichtigtet,beschwichtigt
 besitzen|VVINF	0.0040	besitze,besitzt,besitzest,besitzet,besaß,besaßest,besaßt,besaßen,besäße,besäßest,besäßen,besäßet
 besondere|ADJX	0.0040	besonderem,besonderen,besondereren,besonderes
-besonders|ADV	0.5391	
+besonders|ADV	0.5391
 besonnen|ADJX	0.0040	besonnenstes,besonnener,besonnenster,besonnenes,besonnenen,besonnensten,besonnenem,besonnenerem,besonneneren,besonnenstem,besonnenere,besonnenste,besonneneres,besonnene,besonnenerer
 besser|ADJX	0.0040	bessere,besserem,besseren,besserer,besseres,beste,bestem,besten,bester,bestes
 bessern|VVINF	0.0040	bessert,bessertet,bessere,gebessert,bessertest,besserten,besserte,besserst,besseren
 bestehen|VVINF	0.0040	bestehe,bestehst,besteht,bestehest,bestehet,bestand,bestandest,bestandst,bestanden,bestände,bestünde,beständest,bestündest,beständen,bestünden,beständet,bestündet
-bestens|ADV	0.0808	
+bestens|ADV	0.0808
 bestmöglich|ADJX	0.0040	bestmöglichen,bestmöglichem,bestmöglichere,bestmöglicheres,bestmöglicherer,bestmögliche,bestmöglicher,bestmöglicheren,bestmöglicherem,bestmögliches,bestmöglichste,bestmöglichstes,bestmöglichster,bestmöglichstem,bestmöglichsten
 bestätigen|VVINF	0.0854	bestätiget,bestätigte,bestätigtest,bestätigtet,bestätige,bestätigt,bestätigest,bestätigten,bestätigst
 beteiligen|VVINF	0.0040	beteiligst,beteiliget,beteiligten,beteiligte,beteiligtet,beteiligt,beteiligest,beteilige,beteiligtest
@@ -911,7 +911,7 @@ gehörig|ADJX	0.0040	gehörigere,gehörigem,gehörigen,gehörigstes,gehörigster
 geil|ADJX	0.0040	geilerer,geiles,geiler,geilen,geilem,geileres,geilster,geileren,geilstem,geilsten,geilerem,geilste,geilstes,geilere,geile
 gelassen|ADJX	0.2325	gelassener,gelasseneren,gelassneres,gelassnerer,gelassenerem,gelassenes,gelassenerer,gelasseneres,gelassneren,gelassnerem,gelassenste,gelassenen,gelassenem,gelassenstem,gelassensten,gelassnere,gelassner,gelassene,gelassenere,gelassenster,gelassenstes
 geliebt|ADJX	0.2315	geliebtestes,geliebte,geliebtestem,geliebtesten,geliebtester,geliebtere,geliebteste,geliebten,geliebtem,geliebteren,geliebtes,geliebter,geliebterem,geliebteres,geliebterer
-gelohnt|ADJX	0.5859	
+gelohnt|ADJX	0.5859
 gelungen|ADJX	1.0	gelungnerem,gelungenster,gelungneren,gelungensten,gelungeneren,gelungenerem,gelungenstem,gelungneres,gelungene,gelungnerer,gelungenstes,gelungenere,gelungenen,gelungenste,gelungenem,gelungener,gelungenes,gelungenerer,gelungnere,gelungeneres,gelungner
 gemeinsam|ADJX	0.0040	gemeinsamere,gemeinsamstem,gemeinsamsten,gemeinsamen,gemeinsamem,gemeinsames,gemeinsamstes,gemeinsame,gemeinsamster,gemeinsamer,gemeinsamste,gemeinsamerem,gemeinsameren,gemeinsameres,gemeinsamerer
 gemeinschaftlich|ADJX	0.0040	gemeinschaftlichem,gemeinschaftlichen,gemeinschaftlichstem,gemeinschaftlichsten,gemeinschaftlichste,gemeinschaftliches,gemeinschaftlicherer,gemeinschaftlicher,gemeinschaftlicheres,gemeinschaftliche,gemeinschaftlicherem,gemeinschaftlicheren,gemeinschaftlichere,gemeinschaftlichstes,gemeinschaftlichster
@@ -1071,7 +1071,7 @@ jubeln|VVINF	0.0756	jubele,juble,jubelst,jubelt,jublest,jublet,jubelte,jubeltest
 kinderleicht|ADJX	0.0040	kinderleichte,kinderleichtem,kinderleichten,kinderleichter,kinderleichtes
 klaglos|ADJX	0.0040	klaglose,klaglosem,klaglosen,klagloser,klagloses
 klar|ADJX	0.0040	klaren,klareres,klarem,klarerer,klarer,klareren,klarstes,klarerem,klarster,klarere,klarste,klarstem,klarsten,klares,klare
-klasse|ADJX	0.3474	
+klasse|ADJX	0.3474
 klassisch|ADJX	0.0040	klassisches,klassische,klassischer,klassischste,klassischen,klassischerer,klassischeres,klassischerem,klassischere,klassischeren,klassischem,klassischstem,klassischsten,klassischstes,klassischster
 klettern|VVINF	0.457	kletteren,kletterst,kletterten,klettertest,geklettert,klettert,klettere,klettertet,kletterte
 klimatisiert|VVINF	0.0040	klimatisierte,klimatisiertem,klimatisierten,klimatisierter,klimatisiertes
@@ -1169,7 +1169,7 @@ menschenwürdig|ADJX	0.0040	menschenwürdigeren,menschenwürdigerem,menschenwür
 menschlich|ADJX	0.3324	,menschlichstes,menschlichster,menschlichste,menschlichere,menschlicher,menschliches,menschlichem,menschlichen,menschlichsten,menschlicherer,menschlicheres,menschliche,menschlichstem,menschlicheren,menschlicherem
 messbar|ADJX	0.0040	messbare,messbarem,messbaren,messbarer,messbares,messbarere,messbarerem,messbareren,messbarerer,messbareres,messbarste,messbarstem,messbarsten,messbarster,messbarstes
 mild|ADJX	0.3303	milde,mildem,milden,milder,mildes,mildere,milderem,milderen,milderer,milderes,mildeste,mildestem,mildesten,mildester,mildestes
-miteinander|ADV	0.3697	
+miteinander|ADV	0.3697
 mitfühlen|VVINF	0.0922	mitfühltest,mitgefühlt,mitfühlt,mitfühlet,mitfühlten,mitfühle,mitfühlest,mitfühltet,mitfühlst,mitfühlte
 mitmenschlich|ADJX	0.0040	mitmenschlichere,mitmenschliches,mitmenschlichsten,mitmenschlichstem,mitmenschliche,mitmenschlicher,mitmenschlichste,mitmenschlichstes,mitmenschlichster,mitmenschlichem,mitmenschlichen,mitmenschlicherem,mitmenschlicheren,mitmenschlicheres,mitmenschlicherer
 mobil|ADJX	0.0040	mobilerer,mobilste,mobilsten,mobileres,mobilstem,mobilerem,mobilere,mobileren,mobilen,mobilem,mobiler,mobiles,mobilstes,mobilster,mobile
@@ -1226,7 +1226,7 @@ praktikabel|ADJX	0.0744	praktikable,praktikabler,praktikables,praktikableres,pra
 praktisch|ADJX	0.1026	praktische,praktischem,praktischen,praktischer,praktisches,praktischere,praktischere,praktischere,praktischere,praktischere,praktischste,praktischstem,praktischsten,praktischster,praktischstes
 prall|ADJX	0.09	prallstem,prallsten,prallere,prallster,prallstes,prallem,pralleren,prallerem,prallerer,praller,pralleres,pralles,pralle,prallste,prallen
 preisgünstig|ADJX	0.0040	preisgünstigen,preisgünstige,preisgünstigem,preisgünstigste,preisgünstiger,preisgünstigere,preisgünstiges,preisgünstigerer,preisgünstigeres,preisgünstigsten,preisgünstigeren,preisgünstigerem,preisgünstigstem,preisgünstigster,preisgünstigstes
-prima|ADJX	0.5766	
+prima|ADJX	0.5766
 privilegiert|VVINF	0.0040	privilegiertere,privilegierte,privilegiertes,privilegiertestem,privilegiertesten,privilegiertester,privilegierter,privilegierteren,privilegiertestes,privilegierten,privilegierterer,privilegiertem,privilegierteres,privilegierteste,privilegierterem
 problemlos|ADJX	0.0040	problemlose,problemlosem,problemlosen,problemloser,problemloses,problemlosere,problemloserem,problemloseren,problemloserer,problemloseres,problemloseste,problemlosestem,problemlosesten,problemlosester,problemlosestes
 produktiv|ADJX	0.0040	produktiveren,produktivster,produktiverem,produktivstes,produktiven,produktiver,produktiveres,produktivem,produktiverer,produktivere,produktives,produktive,produktivste,produktivsten,produktivstem
@@ -1345,7 +1345,7 @@ spenden|VVINF	0.0040	spendet,spendetet,spendete,spendeten,spend,spendten,gespend
 speziell|ADJX	0.0040	,speziellste,spezielleren,speziellerem,spezielle,speziellerer,spezielleres,spezielles,spezieller,speziellstem,speziellsten,speziellem,speziellen,speziellere,speziellster,speziellstes
 spielend|ADJX	0.0040	spielender,spielendes,spielende,spielendem,spielenden
 spielerisch|ADJX	0.2	,spielerischen,spielerisches,spielerischer,spielerische,spielerischem
-spitze|ADJX	0.2112	
+spitze|ADJX	0.2112
 spürbar|ADJX	0.0040	,spürbarem,spürbaren,spürbare,spürbares,spürbarer
 stabil|ADJX	0.1016	stabilerer,stabilerem,stabileren,stabiles,stabiler,stabilstem,stabilsten,stabilen,stabilere,stabileres,stabilste,stabilster,stabilem,stabilstes,stabile
 stabilisieren|VVINF	0.0040	stabilisiertet,stabilisiertest,stabilisiere,stabilisiert,stabilisierten,stabilisieret,stabilisierte,stabilisier,stabilisierst,stabilisierest,stabilisierend
@@ -1409,7 +1409,7 @@ umwerfend|ADJX	0.1991	umwerfender,umwerfendes,umwerfende,umwerfenden,umwerfendem
 unabhängig|ADJX	0.0040	unabhängiges,unabhängiger,unabhängige,unabhängigsten,unabhängigeres,unabhängigere,unabhängigstem,unabhängigerer,unabhängigster,unabhängigste,unabhängigerem,unabhängigstes,unabhängigen,unabhängigeren,unabhängigem
 unangefochten|ADJX	0.0040	,unangefochtenem,unangefochtenen,unangefochtene,unangefochtenes,unangefochtener
 unantastbar|ADJX	0.0040	,unantastbaren,unantastbares,unantastbare,unantastbarer,unantastbarem
-unaufholbar|ADJX	0.0040	
+unaufholbar|ADJX	0.0040
 unbedingt|ADJX	0.0040	,unbedingten,unbedingtem,unbedingter,unbedingte,unbedingtes
 unbegrenzt|ADJX	0.0040	,unbegrenzteste,unbegrenzterem,unbegrenzteres,unbegrenzte,unbegrenzterer,unbegrenzten,unbegrenztem,unbegrenztestem,unbegrenztesten,unbegrenzteren,unbegrenzter,unbegrenztester,unbegrenztes,unbegrenztestes,unbegrenztere
 unberührt|ADJX	0.0040	unberührtere,unberührtestes,unberührtes,unberührter,unberührten,unberührte,unberührtem,unberührteste,unberührtestem,unberührtesten,unberührteres,unberührterer,unberührterem,unberührtester,unberührteren
@@ -1527,7 +1527,7 @@ vorsichtig|ADJX	0.2313	,vorsichtigsten,vorsichtigstes,vorsichtigster,vorsichtige
 vorsorgen|VVINF	0.0878	vorsorgst,vorsorgte,vorsorgt,vorsorgtet,vorsorge,vorsorgtest,vorsorgten,vorgesorgt,vorsorget,vorsorgest,vorsorgend,vorzusorgen
 vorsorglich|ADJX	0.0040	vorsorgliche,vorsorgliches,vorsorglicher,vorsorglichem,vorsorglichen
 vorteilhaft|ADJX	0.0040	vorteilhaftestes,vorteilhafteste,vorteilhaftes,vorteilhafter,vorteilhafte,vorteilhaftestem,vorteilhaftesten,vorteilhaften,vorteilhaftester,vorteilhaftem,vorteilhafteren,vorteilhafterem,vorteilhafteres,vorteilhafterer,vorteilhaftere
-vorwärts|ADV	0.0961	
+vorwärts|ADV	0.0961
 vorzeigbar|ADJX	0.0040	vorzeigbare,vorzeigbarem,vorzeigbaren,vorzeigbarste,vorzeigbarster,vorzeigbarere,vorzeigbarer,vorzeigbarstem,vorzeigbarsten,vorzeigbares,vorzeigbareres,vorzeigbarerer,vorzeigbarerem,vorzeigbarstes,vorzeigbareren
 vorzüglich|ADJX	0.3223	vorzüglichen,vorzüglicheres,vorzüglichem,vorzüglicherer,vorzüglicher,vorzüglicheren,vorzüglicherem,vorzügliches,vorzüglichstem,vorzüglichste,vorzüglichster,vorzüglichere,vorzüglichstes,vorzüglichsten,vorzügliche
 wachsam|ADJX	0.0891	,wachsamsten,wachsameren,wachsamerem,wachsamstem,wachsamstes,wachsamster,wachsamen,wachsamem,wachsamer,wachsameres,wachsamerer,wachsamere,wachsames,wachsamste,wachsame
@@ -1553,7 +1553,7 @@ wertschätzen|VVINF	0.0040	wertschätzten,wertschätzet,wertschätzest,wertschä
 wertvoll|ADJX	0.357	,wertvolleres,wertvollerer,wertvollster,wertvollerem,wertvolleren,wertvollsten,wertvollstem,wertvolle,wertvollen,wertvollem,wertvoller,wertvollere,wertvollstes,wertvolles,wertvollste
 wichtig|ADJX	0.3822	wichtigsten,wichtigstem,wichtigster,wichtige,wichtigstes,wichtiger,wichtiges,wichtigere,wichtigerem,wichtigem,wichtigeren,wichtigerer,wichtigen,wichtigeres,wichtigste
 widerstandsfähig|ADJX	0.0877	widerstandsfähigstes,widerstandsfähigster,widerstandsfähigerer,widerstandsfähigeres,widerstandsfähiges,widerstandsfähigerem,widerstandsfähigeren,widerstandsfähiger,widerstandsfähigem,widerstandsfähigen,widerstandsfähigsten,widerstandsfähige,widerstandsfähigstem,widerstandsfähigere,widerstandsfähigste
-wiederaufleben|VVINF	0.0040	
+wiederaufleben|VVINF	0.0040
 wiederbeleben|VVINF	0.0040	wiederbelebtet,wiederbelebst,wiederbelebte,wiederbelebest,wiederbelebt,wiederbelebe,wiederbelebet,wiederbelebtest,wiederbelebten,wiederbelebend,wiederzubeleben
 wiedergewinnen|VVINF	0.0040	wiedergewinne,wiedergewinnst,wiedergewinnest,wiedergewinnt,wiedergewinnet,wiedergewann,wiedergewannst,wiedergewannen,wiedergewannt,wiedergewänne,wiedergewönne,wiedergewännest,wiedergewännst,weidergewönnest,wiedergewönnst,wiedergewännen
 wiedergutmachen|VVINF	0.0040	wiedergutmachten,wiedergutmachte,wiedergutgemacht,wiedergutmachst,wiedergutmachet,wiedergutmachtest,wiedergutmacht,wiedergutmachtet,wiedergutmachest,wiedergutmache
@@ -1580,7 +1580,7 @@ wunderschön|ADJX	0.7048	wunderschönen,wunderschönsten,wunderschönstem,wunder
 wundervoll|ADJX	0.308	wundervollster,wundervollstes,wundervollere,wundervollste,wundervollstem,wundervolleren,wundervollsten,wundervolleres,wundervollerer,wundervollerem,wundervolle,wundervolles,wundervoller,wundervollen,wundervollem
 wunschgemäß|ADJX	0.0040	,wunschgemäßer,wunschgemäßen,wunschgemäßem,wunschgemäße,wunschgemäßes
 wärmen|VVINF	0.1956	wärmtet,wärmet,gewärmt,wärm,wärmtest,wärmest,wärmt,wärmst,wärmten,wärmte,wärme
-wärmstens|ADV	0.0040	
+wärmstens|ADV	0.0040
 wünschenswert|ADJX	0.0040	wünschenswerten,wünschenswertesten,wünschenswertestem,wünschenswertem,wünschenswerter,wünschenswertere,wünschenswertes,wünschenswertester,wünschenswerteste,wünschenswertestes,wünschenswerteren,wünschenswerterem,wünschenswerteres,wünschenswerterer,wünschenswerte,wünschenswertest
 würdevoll|ADJX	0.0040	würdevollerer,würdevolle,würdevolleres,würdevollem,würdevollere,würdevollstes,würdevolles,würdevollste,würdevoller,würdevolleren,würdevollster,würdevollerem,würdevollen,würdevollstem,würdevollsten
 würdig|ADJX	0.0801	würdigstem,würdigsten,würdigeres,würdiges,würdiger,würdigen,würdigerer,würdigste,würdigstes,würdigem,würdigster,würdigeren,würdigerem,würdige,würdigere
@@ -1607,14 +1607,14 @@ zustimmen|VVINF	0.0040	zustimme,zustimmst,zustimmest,zustimmt,zustimmte,zustimmt
 zuverlässig|ADJX	0.2052	zuverlässigsten,zuverlässigster,zuverlässigstes,zuverlässigerer,zuverlässigeres,zuverlässigeren,zuverlässige,zuverlässigerem,zuverlässigstem,zuverlässigste,zuverlässiges,zuverlässiger,zuverlässigere,zuverlässigen,zuverlässigem
 zuversichtlich|ADJX	0.2179	zuversichtlichen,zuversichtlichem,zuversichtlichste,zuversichtlichstem,zuversichtlichsten,zuversichtlicherer,zuversichtlicheres,zuversichtlicherem,zuversichtlicheren,zuversichtliche,zuversichtlichstes,zuversichtlicher,zuversichtlichere,zuversichtlichster,zuversichtliches
 zuvorkommend|ADJX	0.6669	zuvorkommendste,zuvorkommende,zuvorkommenderes,zuvorkommenderer,zuvorkommenderen,zuvorkommendes,zuvorkommendstes,zuvorkommender,zuvorkommenderem,zuvorkommenden,zuvorkommendem,zuvorkommendere,zuvorkommendsten,zuvorkommendstem,zuvorkommendster
-zweifellos|ADJX	0.0839	
+zweifellos|ADJX	0.0839
 Übereinkunft|NN	0.0040	Übereinkünfte,Übereinkünften
 Übereinstimmung|NN	0.0040	Übereinstimmungen
 Überfluß|NN	0.0040	Überfluss,Überflusses,Überflusse
-Überlegenheit|NN	0.0040	
+Überlegenheit|NN	0.0040
 Überlegung|NN	0.0040	Überlegungen
-Überparteilichkeit|NN	0.0040	
-Überschaubarkeit|NN	0.0040	
+Überparteilichkeit|NN	0.0040
+Überschaubarkeit|NN	0.0040
 Überschwänglichkeit|NN	0.0040	Überschwänglichkeiten,Überschwenglichkeit,Überschwenglichkeiten
 Überzeugung|NN	0.0040	Überzeugungen
 ästhetisch|ADJX	0.2038	ästhetischem,ästhetischerer,ästhetischen,ästhetische,ästhetischstes,ästhetischeres,ästhetisches,ästhetischer,ästhetischere,ästhetischerem,ästhetischeren,ästhetischste,ästhetischster,ästhetischsten,ästhetischstem

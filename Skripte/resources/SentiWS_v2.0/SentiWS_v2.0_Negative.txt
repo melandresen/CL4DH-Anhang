@@ -57,8 +57,8 @@ Anspannung|NN	-0.0048	Anspannungen
 Anstrengung|NN	-0.0048	Anstrengungen
 Antipathie|NN	-0.0048	Antipathien
 Arbeitslose|NN	-0.3549	Arbeitslosen,Arbeitsloser,Arbeitslosem
-Arbeitslosigkeit|NN	-0.3654	
-Armut|NN	-0.2038	
+Arbeitslosigkeit|NN	-0.3654
+Armut|NN	-0.2038
 Arroganz|NN	-0.3289	Arroganzen
 Arschloch|NN	-0.1901	Arschlöcher,Arschlochs,Arschlöchern,Arschloches,Arschloche
 Attacke|NN	-0.47	Attacken
@@ -103,21 +103,21 @@ Beschwerde|NN	-0.0048	Beschwerden
 Beschwerlichkeit|NN	-0.0048	Beschwerlichkeiten
 Beschädigung|NN	-0.0048	Beschädigungen
 Beschäftigungslose|NN	-0.0048	Beschäftigungslosen
-Beschäftigungsloser|NN	-0.0048	
+Beschäftigungsloser|NN	-0.0048
 Beschämung|NN	-0.0048	Beschämungen
 Beseitigung|NN	-0.0048	Beseitigungnen
 Besorgnis|NN	-0.0048	Besorgnissen,Besorgnisse
 Bestechung|NN	-0.0048	Bestechungen
 Besteuerung|NN	-0.0048	Besteuerungen
 Bestrafung|NN	-0.0048	Bestrafungen
-Bestürzung|NN	-0.0048	
+Bestürzung|NN	-0.0048
 Betrug|NN	-0.4913	Betrugs,Betruges,Betruge
 Betrüger|NN	-0.3311	Betrügers,Betrügern
 Beule|NN	-0.0048	Beulen
 Beunruhigung|NN	-0.324	Beunruhigungen
 Bevormundung|NN	-0.0048	Bevormundungen
 Bitterkeit|NN	-0.0048	Bitterkeiten
-Blindheit|NN	-0.0048	
+Blindheit|NN	-0.0048
 Blockade|NN	-0.0048	Blockaden
 Blockierung|NN	-0.0048	Blockierungen
 Blödheit|NN	-0.0048	Blödheiten
@@ -132,13 +132,13 @@ Bußgeld|NN	-0.3377	Bußgeldes,Bußgelds,Bußgelder,Bußgeldern
 Bösartigkeit|NN	-0.3189	Bösartigkeiten
 Bösewicht|NN	-0.0048	Bösewichten,Bösewichte,Bösewichts,Bösewichtes,Bösewichter
 Bürde|NN	-0.0524	Bürden
-Chaos|NN	-0.3489	
+Chaos|NN	-0.3489
 Crash|NN	-0.1885	Crashs
 Defekt|NN	-0.0048	Defekten,Defekts,Defektes,Defekte
 Defizit|NN	-0.347	Defiziten,Defizits,Defizite,Defizites
 Deformation|NN	-0.0048	Deformationen
 Degradierung|NN	-0.3137	Degradierungen
-Dekadenz|NN	-0.0048	
+Dekadenz|NN	-0.0048
 Demütigung|NN	-0.0048	Demütigungen
 Denkfehler|NN	-0.0048	Denkfehlern,Denkfehlers
 Depression|NN	-0.4951	Depressionen
@@ -181,7 +181,7 @@ Ekel|NN	-0.462	Ekels
 Elend|NN	-0.2013	Elends,Elendes
 Empörung|NN	-0.0048	Empörungen
 Ende|NN	-0.2088	Endes,Enden
-Energielosigkeit|NN	-0.0048	
+Energielosigkeit|NN	-0.0048
 Entbindung|NN	-0.0048	Entbindungen
 Entfremdung|NN	-0.0048	Entfremdungen
 Entführung|NN	-0.0048	Entführungen
@@ -204,7 +204,7 @@ Explosion|NN	-0.0048	Explosionen
 Fahrlässigkeit|NN	-0.0048	Fahrlässigkeiten
 Farce|NN	-0.3349	Farcen
 Faschist|NN	-0.0048	Faschisten
-Faulheit|NN	-0.611	
+Faulheit|NN	-0.611
 Fehde|NN	-0.0048	Fehden
 Fehlanzeige|NN	-0.0048	Fehlanzeigen
 Fehler|NN	-0.6752	Fehlern,Fehlers
@@ -228,11 +228,11 @@ Flüchtling|NN	-0.0048	Flüchtlings,Flüchtlinge,Flüchtlinges,Flüchtlingen
 Frechheit|NN	-0.4665	Frechheiten
 Frust|NN	-0.469	Frustes,Frusts
 Frustration|NN	-0.3354	Frustrationen
-Furcht|NN	-0.5012	
+Furcht|NN	-0.5012
 Fälschung|NN	-0.3377	Fälschungen
 Gammler|NN	-0.0048	Gammlers,Gammlern
 Gangster|NN	-0.3375	Gangsters,Gangstern
-Garnichts|NN	-0.0048	
+Garnichts|NN	-0.0048
 Gauner|NN	-0.4592	Gaunern,Gauners
 Gebrechen|NN	-0.3251	Gebrechens
 Gedränge|NN	-0.0571	Gedrängen,Gedränges
@@ -251,31 +251,31 @@ Geschäftsauflösung|NN	-0.0048	Geschäftsauflösungen
 Gestank|NN	-0.0048	Gestanks,Gestankes,Gestanke
 Gewalt|NN	-0.5363	Gewalten
 Gewalttätige|NN	-0.0048	Gewalttätigen
-Gewalttätiger|NN	-0.0048	
+Gewalttätiger|NN	-0.0048
 Gift|NN	-0.3505	Gifts,Giftes,Giften,Gifte
-Glanzlosigkeit|NN	-0.0048	
-Gleichgültigkeit|NN	-0.343	
-Glücklosigkeit|NN	-0.0048	
-Gnadenlosigkeit|NN	-0.0048	
+Glanzlosigkeit|NN	-0.0048
+Gleichgültigkeit|NN	-0.343
+Glücklosigkeit|NN	-0.0048
+Gnadenlosigkeit|NN	-0.0048
 Grausamkeit|NN	-0.3348	Grausamkeiten
 Groll|NN	-0.6021	Grolls,Grolles
 Groteske|NN	-0.0048	Grotesken
-Habgier|NN	-0.0532	
-Haft|NN	-0.0048	
+Habgier|NN	-0.0532
+Haft|NN	-0.0048
 Handgemenge|NN	-0.3174	Handgemenges,Handgemengen
 Handicap|NN	-0.0426	Handicaps
 Handikap|NN	-0.0426	Handikaps
 Hass|NN	-0.5014	Hasse,Hasses
 Heimsuchung|NN	-0.0048	Heimsuchungen
-Hektik|NN	-0.0048	
+Hektik|NN	-0.0048
 Hemmung|NN	-0.0048	Hemmungen
 Herausforderung|NN	-0.0048	Herausforderungen
 Heuchelei|NN	-0.0048	Heucheleien
 Heuchler|NN	-0.3251	Heuchlers,Heuchlern
-Hilflosigkeit|NN	-0.3394	
+Hilflosigkeit|NN	-0.3394
 Hindernis|NN	-0.0048	Hinderniss,Hindernisses,Hindernissen,Hindernisse
 Hinterhalt|NN	-0.0048	Hinterhaltes,Hinterhalts,Hinterhalte,Hinterhalten
-Hinterlist|NN	-0.0048	
+Hinterlist|NN	-0.0048
 Hohn|NN	-0.0048	Hohnes,Hohns
 Horror|NN	-0.0509	Horrors
 Hunger|NN	-0.3531	,Hungers
@@ -286,7 +286,7 @@ Härte|NN	-0.0446	Härten
 Hölle|NN	-0.5052	Höllen
 Idiot|NN	-0.0048	Idioten
 Illegalität|NN	-0.0048	Illegalitäten
-Immobilität|NN	-0.0048	
+Immobilität|NN	-0.0048
 Ineffizienz|NN	-0.0048	Ineffizienzen
 Infektion|NN	-0.2059	Infektionen
 Infiltration|NN	-0.0048	Infiltrationen
@@ -326,23 +326,23 @@ Krach|NN	-0.0048	Krächen,Kräche,Krachs,Kraches
 Krachen|NN	-0.0048	Krächen,Krachens
 Krankheit|NN	-0.6858	Krankheiten
 Krieg|NN	-0.5364	Kriegs,Krieges,Kriegen,Kriege
-Kriminalität|NN	-0.0048	
+Kriminalität|NN	-0.0048
 Krise|NN	-0.3621	Krisen
 Kritik|NN	-0.5308	Kritiken
 Kritiker|NN	-0.6494	Kritikers,Kritikern
 Kränkung|NN	-0.0048	Kränkungen
 Krüppel|NN	-0.3203	Krüppeln,Krüppels
 Kurseinbruch|NN	-0.0048	Kurseinbruchs,Kurseinbrüche,Kurseinbruches,Kurseinbrüchen
-Kälte|NN	-0.0048	
+Kälte|NN	-0.0048
 Kündigung|NN	-0.0048	Kündigungen
 Kürzung|NN	-0.341	Kürzungen
-Langeweile|NN	-0.0377	
+Langeweile|NN	-0.0377
 Langweiler|NN	-0.0443	Langweilern,Langweilers
 Last|NN	-0.0048	Lasten
 Launenhaftigkeit|NN	-0.0048	Launenhaftigkeiten
 Lebensgefahr|NN	-0.0048	Lebensgefahren
-Leblosigkeit|NN	-0.0048	
-Leere|NN	-0.0048	
+Leblosigkeit|NN	-0.0048
+Leere|NN	-0.0048
 Leichtsinn|NN	-0.3253	Leichtsinns,Leichtsinnes
 Leichtsinnsfehler|NN	-0.0371	Leichtsinnsfehlers,Leichtsinnsfehlern
 Leid|NN	-0.5056	Leides,Leids,Leide
@@ -365,26 +365,26 @@ Minderwertigkeit|NN	-0.3201	Minderwertigkeiten
 Missachtung|NN	-0.0048	Missachtungen
 Missbrauch|NN	-0.0048	Missbräuchen,Missbrauches,Missbräuche,Missbrauchs,Missbrauche
 Missgeschick|NN	-0.0472	Missgeschicken,Missgeschicks,Missgeschicke,Missgeschickes
-Missglück|NN	-0.0048	
+Missglück|NN	-0.0048
 Misstrauen|NN	-0.4778	Misstrauens
 Misstrauensantrag|NN	-0.0048	Misstrauensanträge,Misstrauensanträgen,Misstrauensantrages,Misstrauensantrags,Misstrauensantrage
 Missverständnis|NN	-0.4756	Missverständnisse,Missverständnisses,Missverständnissen
 Mist|NN	-0.1732	Mists,Mistes,Miste
-Mittellosigkeit|NN	-0.0048	
-Mittelmäßigkeit|NN	-0.0048	
+Mittellosigkeit|NN	-0.0048
+Mittelmäßigkeit|NN	-0.0048
 Monotonie|NN	-0.0048	Monotonien
 Mord|NN	-0.3595	Mordes,Morde,Mords,Morden
-Mutlosigkeit|NN	-0.0048	
-Müdigkeit|NN	-0.1995	
+Mutlosigkeit|NN	-0.0048
+Müdigkeit|NN	-0.1995
 Mühe|NN	-0.0048	Mühen
 Müll|NN	-0.3377	Mülls,Mülles
 Nachlässigkeit|NN	-0.0048	Nachlässigkeiten
 Nachteil|NN	-0.8102	Nachteilen,Nachteile,Nachteils,Nachteiles
-Naivität|NN	-0.0048	
+Naivität|NN	-0.0048
 Narr|NN	-0.335	Narren
-Negativität|NN	-0.3155	
+Negativität|NN	-0.3155
 Neid|NN	-0.4729	Neides,Neids,Neide
-Nervosität|NN	-0.1833	
+Nervosität|NN	-0.1833
 Neustart|NN	-0.0504	Neustarts
 Niedergang|NN	-0.0048	Niedergangs,Niederganges,Niedergange,Niedergänge,Niedergängen
 Niedergeschlagenheit|NN	-0.0048	Niedergeschlagenheiten
@@ -392,7 +392,7 @@ Niederlage|NN	-0.3651	Niederlagen
 Not|NN	-0.2187	Nöten,Nöte
 Notfall|NN	-0.0468	Notfalles,Notfällen,Notfalls,Notfälle,Notfalle
 Notstand|NN	-0.0048	Notstandes,Notständen,Notstands,Notstände,Notstande
-Nutzlosigkeit|NN	-0.0048	
+Nutzlosigkeit|NN	-0.0048
 Nötigung|NN	-0.0048	Nötigungen
 Oberflächlichkeit|NN	-0.3299	Oberflächlichkeiten
 Offensive|NN	-0.0048	Offensiven
@@ -400,19 +400,19 @@ Opposition|NN	-0.3631	Oppositionen
 Panik|NN	-0.3429	Paniken
 Panne|NN	-0.1901	Pannen
 Pech|NN	-0.4823	Peches,Pechen,Peche,Pechs
-Pessimismus|NN	-0.4715	
+Pessimismus|NN	-0.4715
 Pest|NN	-0.3456	Pests
 Pflicht|NN	-0.3577	Pflichten
 Pleite|NN	-0.3323	Pleiten
 Preissturz|NN	-0.0048	,Preisstürze,Preisstürzen,Preissturzes,Preissturze,Preissturzen
 Problem|NN	-0.3865	Probleme,Problemen,Problems
-Propaganda|NN	-0.4893	
+Propaganda|NN	-0.4893
 Protest|NN	-0.3564	Protestes,Protests,Proteste,Protesten
 Provisorium|NN	-0.0048	Provisorien,Provisoriums
 Provokation|NN	-0.0048	Provokationen
 Qual|NN	-0.0402	Qualen
 Qualitätsminderung|NN	-0.3096	Qualitätsminderungen
-Rache|NN	-0.3534	
+Rache|NN	-0.3534
 Ratlosigkeit|NN	-0.0048	Ratlosigkeiten
 Raub|NN	-0.0048	Raubs,Raubes,Rauben,Raube
 Rebell|NN	-0.0048	Rebellen
@@ -446,7 +446,7 @@ Sabotage|NN	-0.0048	Sabotagen
 Sackgasse|NN	-0.3455	Sackgassen
 Schaden|NN	-0.5299	Schadens,Schäden
 Schadensbild|NN	-0.0048	Schadensbildern,Schadensbilder,Schadensbilds,Schadensbildes,Schadensbilde
-Scham|NN	-0.4829	
+Scham|NN	-0.4829
 Schande|NN	-0.0048	Schanden
 Scheidung|NN	-0.2023	Scheidungen
 Scheitern|NN	-0.3524	Scheiterns
@@ -498,7 +498,7 @@ Strafverfahren|NN	-0.0048	Strafverfahrens
 Strapaze|NN	-0.0048	Strapazen
 Streik|NN	-0.0048	Streiks,Streikes,Streike,Streiken
 Streit|NN	-0.6632	Streites,Streits,Streiten,Streite
-Strenge|NN	-0.0048	
+Strenge|NN	-0.0048
 Stress|NN	-0.0048	Stresse,Stresses
 Sturheit|NN	-0.1894	Sturheiten
 Sturz|NN	-0.6316	Sturze,Sturzen,Stürze,Sturzes,Stürzen
@@ -507,7 +507,7 @@ Sucht|NN	-0.3505	Süchte,Süchten,Suchten
 Sündenbock|NN	-0.3285	Sündenbockes,Sündenböcke,Sündenböcken,Sündenbocks
 Tabu|NN	-0.0048	Tabus
 Terror|NN	-0.0048	Terrors
-Terrorismus|NN	-0.3553	
+Terrorismus|NN	-0.3553
 Teuerung|NN	-0.322	Teuerungen
 Teuerungsrate|NN	-0.0048	Teuerungsraten
 Teufelskreis|NN	-0.479	,Teufelskreise,Teufelskreisen,Teufelskreises
@@ -517,14 +517,14 @@ Todesstrafe|NN	-0.0048	Todesstrafen
 Torheit|NN	-0.0048	Torheiten
 Totschlag|NN	-0.0048	Totschlage,Totschlags,Totschlages
 Tragödie|NN	-0.0048	Tragödien
-Trauer|NN	-0.0048	
+Trauer|NN	-0.0048
 Trauma|NN	-0.0048	Traumen,Traumas,Traumata
 Traurigkeit|NN	-0.0457	Traurigkeiten
 Trennung|NN	-0.5071	Trennungen
 Tristesse|NN	-0.0555	Tristessen
 Trostlosigkeit|NN	-0.0048	Trostlosigkeiten
 Trott|NN	-0.0048	Trottes,Trotten,Trotts,Trotte
-Trugschluß|NN	-0.0048	
+Trugschluß|NN	-0.0048
 Trugschluss|NN	-0.0048	Trugschlusse,Trugschlusses,Trugschlüsse,Trugschlüssen
 Trägheit|NN	-0.1937	Trägheiten
 Träne|NN	-0.0562	Tränen
@@ -535,9 +535,9 @@ Täuschung|NN	-0.3445	Täuschungen
 Umtausch|NN	-0.343	Umtauschen,Umtausches,Umtauschs,Umtäusche,Umtausche,Umtäuschen
 Unbehagen|NN	-0.3291	Unbehagens
 Unbehaglichkeit|NN	-0.0048	Unbehaglichkeiten
-Unbeliebtheit|NN	-0.0048	
+Unbeliebtheit|NN	-0.0048
 Unbequemlichkeit|NN	-0.0048	Unbequemlichkeiten
-Unbestimmtheit|NN	-0.0537	
+Unbestimmtheit|NN	-0.0537
 Undankbarkeit|NN	-0.0048	Undankbarkeiten
 Unehrlichkeit|NN	-0.0048	Unehrlichkeiten
 Uneinigkeit|NN	-0.3289	Uneinigkeiten
@@ -547,24 +547,24 @@ Unfall|NN	-0.0048	Unfällen,Unfalls,Unfälle,Unfalles,Unfalle
 Unfreundlichkeit|NN	-0.3085	Unfreundlichkeiten
 Unfug|NN	-0.3394	Unfugs
 Unfähigkeit|NN	-0.1896	Unfähigkeiten
-Ungeduld|NN	-0.4655	
-Ungehorsamkeit|NN	-0.0048	
+Ungeduld|NN	-0.4655
+Ungehorsamkeit|NN	-0.0048
 Ungenauigkeit|NN	-0.0048	Ungenauigkeiten
 Ungerechtigkeit|NN	-0.3419	Ungerechtigkeiten
 Ungeschicklichkeit|NN	-0.3116	Ungeschicklichkeiten
-Unglaubwürdigkeit|NN	-0.0048	
+Unglaubwürdigkeit|NN	-0.0048
 Ungleichheit|NN	-0.0048	Ungleichheiten
 Unglück|NN	-0.5004	Unglückes,Unglücks,Unglücke,Unglücken
 Unheilbarkeit|NN	-0.0048	Unheilbarkeiten
 Unhöflichkeit|NN	-0.0048	Unhöflichkeiten
 Unklarheit|NN	-0.0048	Unklarheiten
 Unmenschlichkeit|NN	-0.0048	Unmenschlichkeiten
-Unmoral|NN	-0.3172	
+Unmoral|NN	-0.3172
 Unmut|NN	-0.3394	Unmutes,Unmuts,Unmute
 Unordnung|NN	-0.3391	Unordnungen
 Unrecht|NN	-0.5086	Unrechtes,Unrechts,Unrechte
 Unregelmäßigkeit|NN	-0.0048	Unregelmäßigkeiten
-Unrentabilität|NN	-0.0048	
+Unrentabilität|NN	-0.0048
 Unruhe|NN	-0.201	Unruhen
 Unsicherheit|NN	-0.358	Unsicherheiten
 Unsinn|NN	-0.4969	Unsinnes,Unsinns
@@ -575,7 +575,7 @@ Unterdrückung|NN	-0.0048	Unterdrückungen
 Untergang|NN	-0.3498	Untergangs,Untergängen,Unterganges,Untergänge
 Unterlassung|NN	-0.0048	Unterlassungen
 Unterwerfung|NN	-0.3279	Unterwerfungen
-Untreue|NN	-0.3293	
+Untreue|NN	-0.3293
 Unverantwortlichkeit|NN	-0.3068	Unverantwortlichkeiten
 Unvereinbarkeit|NN	-0.0048	Unvereinbarkeiten
 Unverhältnismäßigkeit|NN	-0.0048	Unverhältnismäßigkeiten
@@ -655,7 +655,7 @@ Widrigkeit|NN	-0.0048	Widrigkeiten
 Wirtschaftskrise|NN	-0.0048	Wirtschaftskrisen
 Wrack|NN	-0.0048	Wracks,Wracke,Wracken,Wrackes
 Wunde|NN	-0.3396	Wunden
-Wut|NN	-0.4726	
+Wut|NN	-0.4726
 Wüste|NN	-0.0048	Wüsten
 Zahlungsunfähigkeit|NN	-0.0048	Zahlungsunfähigkeiten
 Zeitverschwendung|NN	-0.3223	Zeitverschwendungen
@@ -663,7 +663,7 @@ Zensur|NN	-0.3468	Zensuren
 Zerrung|NN	-0.0048	Zerrungen
 Zerschlagung|NN	-0.0048	Zerschlagungen
 Zerstörung|NN	-0.3578	Zerstörungen
-Ziellosigkeit|NN	-0.0048	
+Ziellosigkeit|NN	-0.0048
 Zoll|NN	-0.0048	Zolls,Zölle,Zolles,Zöllen
 Zorn|NN	-0.3537	Zorns,Zornes,Zorne
 Zumutung|NN	-0.3286	Zumutungen
@@ -673,7 +673,7 @@ Zwang|NN	-0.0721	Zwanges,Zwängen,Zwänge,Zwangs,Zwange
 Zwangslage|NN	-0.0048	Zwangslagen
 Zwangsmaßnahme|NN	-0.0048	Zwangsmaßnahmen
 Zweifel|NN	-0.0048	Zweifeln,Zweifels
-Zwietracht|NN	-0.0048	
+Zwietracht|NN	-0.0048
 abbauen|VVINF	-0.0578	abbaue,abbaust,abbaut,abbauest,abbauet,abbaute,abbautest,abbauten,abbautest
 abbrechen|VVINF	-0.3482	abbreche,abbrichst,abbricht,abbrecht,abbrechest,abbrechet,abbrach,abbrachst,abbrachen,abbracht,abbräche,abbrächest,abbrächst,abbrächen,abbrächet,abbrächt
 abdanken|VVINF	-0.0048	abgedankt,abdanke,abdankte,abdankt,abdanktet,abdankest,abdankst,abdanktest,abdankten,abdanket
@@ -819,7 +819,7 @@ beleidigend|ADJX	-0.4636	beleidigende,beleidigendem,beleidigenden,beleidigender,
 beleidigt|VVINF	-0.4848	beleidigte,beleidigtem,beleidigten,beleidigter,beleidigtes,beleidigtere,beleidigterem,beleidigteren,beleidigterer,beleidigteres,beleidigste,beleidigstem,beleidigsten,beleidigster,beleidigstes
 belästigen|VVINF	-0.0048	belästigten,belästigst,belästiget,belästigt,belästige,belästigte,belästigtet,belästigest,belästigtest
 berauben|VVINF	-0.0048	beraubte,beraubst,beraubest,beraubten,beraubtest,beraube,beraubet,beraubt,beraubtet
-bergab|ADV	-0.0048	
+bergab|ADV	-0.0048
 bescheuert|ADJX	-0.0048	bescheuertestes,bescheuertester,bescheuertes,bescheuerter,bescheuerteren,bescheuertem,bescheuerteres,bescheuerten,bescheuerterer,bescheuertestem,bescheuertesten,bescheuertere,bescheuerteste,bescheuerte,bescheuerterem
 beschissen|ADJX	-0.2947	beschissnere,beschissenere,beschisseneres,beschissnerem,beschissene,beschissenerem,beschisseneren,beschissenste,beschissenerer,beschissenen,beschissenstes,beschissenem,beschissenster,beschissenstem,beschissensten,beschissneren,beschissner,beschissenes,beschissener,beschissnerer,beschissneres
 beschneiden|VVINF	-0.3293	beschneide,beschneidest,beschneidet,beschnitt,beschnittest,beschnitten,beschnittet
@@ -1073,7 +1073,7 @@ grausig|ADJX	-0.1777	grausigstem,grausigsten,grausiges,grausigeren,grausigeres,g
 grenzdebil|ADJX	-0.0048	grenzdebile,grenzdebilem,grenzdebilen,grenzdebiler,grenzdebiles,grenzdebilere,grenzdebilerem,grenzdebileren,grenzdebilerer,grenzdebileres,grenzdebilste,grenzdebilstem,grenzdebilsten,grenzdebilster,grenzdebilstes
 grimmig|ADJX	-0.3295	grimmigen,grimmigem,grimmige,grimmiger,grimmiges,grimmigere,grimmigstes,grimmigster,grimmigstem,grimmigeren,grimmigerem,grimmigsten,grimmigeres,grimmigste,grimmigerer
 grob|ADJX	-0.3495	gröbster,gröbstes,gröbsten,gröbstem,grobe,gröbere,gröberes,gröberer,gröbste,gröber,gröberen,gröberem,grobem,groben,grober,grobes
-groggy|ADJX	-0.0048	
+groggy|ADJX	-0.0048
 grotesk|ADJX	-0.3318	groteskeres,groteskem,grotesken,groteskesten,groteskerem,groteskeren,groteskeste,grotesker,groteskes,groteskestem,groteskester,groteskestes,groteskere,groteskerer,groteske
 grottenschlecht|ADJX	-0.3089	grottenschlechte,grottenschlechtem,grottenschlechten,grottenschlechter,grottenschlechtes,grottenschlechtere,grottenschlechterem,grottenschlechteren,grottenschlechterer,grottenschlechteres,grottenschlechteste,grottenschlechtestem,grottenschlechtesten,grottenschlechtester,grottenschlechtestes
 grottenübel|ADJX	-0.0048	grottenüblem,grottenüblen,grottenübler,grottenübles,grottenüblere,grottenüblerem,grottenübleren,grottenüblerer,grottenübleres,grottenübelste,grottenübelstem,grottenübelsten,grottenübelster,grottenübelstes
@@ -1100,7 +1100,7 @@ hemmen|VVINF	-0.1953	hemmest,gehemmt,hemmtest,hemmst,hemme,hemmten,hemmet,hemmte
 herabsetzen|VVINF	-0.3199	herabsetzest,herabgesetzt,herabsetzten,herabsetze,herabsetzt,herabsetztet,herabsetztest,herabsetzet,herabsetzte
 herausfordern|VVINF	-0.0048	,herausgefordert,herausfordertest,herausforderst,herausforderen,herausforderte,herausfordertet,herausforderten,herausfordere,herausfordert
 herrisch|ADJX	-0.0426	herrischstes,herrischem,herrischster,herrischen,herrischere,herrischsten,herrischer,herrisches,herrischstem,herrischerem,herrischeren,herrische,herrischste,herrischeres,herrischerer
-herunter|ADV	-0.0048	
+herunter|ADV	-0.0048
 heruntermachen|VVINF	-0.0048	heruntermachten,heruntermachet,heruntermache,heruntermachtet,heruntermachest,heruntermachte,heruntermachst,heruntermacht,heruntermachtest,heruntergemacht
 herzlos|ADJX	-0.3157	herzlosere,herzloses,herzloser,herzloseste,herzlosen,herzlose,herzlosem,herzloseres,herzlosestes,herzlosester,herzloserer,herzloserem,herzloseren,herzlosestem,herzlosesten
 heucheln|VVINF	-0.0048	geheuchelt,heucheltest,heuchelst,heuchelte,heucheltet,heuchle,heuchelt,heuchele,heuchelen,heuchel,heuchelten
@@ -1198,7 +1198,7 @@ leer|ADJX	-0.025	leererem,leere,leereren,leererer,leereres,leerstem,leerem,leere
 leichtgläubig|ADJX	-0.0048	,leichtgläubigere,leichtgläubigeren,leichtgläubigerem,leichtgläubigerer,leichtgläubigste,leichtgläubigeres,leichtgläubigstem,leichtgläubigsten,leichtgläubiger,leichtgläubiges,leichtgläubigen,leichtgläubigstes,leichtgläubigem,leichtgläubige,leichtgläubigster
 leichtsinnig|ADJX	-0.0048	leichtsinnige,leichtsinnigster,leichtsinnigstes,leichtsinnigeren,leichtsinnigerem,leichtsinnigerer,leichtsinnigste,leichtsinniges,leichtsinniger,leichtsinnigeres,leichtsinnigere,leichtsinnigem,leichtsinnigstem,leichtsinnigsten,leichtsinnigen
 leiden|VVINF	-0.1596	leide,leidest,leidet,litt,littest,litten,littet,litte,gelitten
-leider|ADJX	-0.4787	
+leider|ADJX	-0.4787
 leistungsunfähig|ADJX	-0.0048	leistungsunfähige,leistungsunfähigem,leistungsunfähigen,leistungsunfähiger,leistungsunfähiges,leistungsunfähigere,leistungsunfähigerem,leistungsunfähigeren,leistungsunfähigerer,leistungsunfähigeres,leistungsunfähigste,leistungsunfähigstem,leistungsunfähigsten,leistungsunfähigster,leistungsunfähigstes
 leugnen|VVINF	-0.4862	leugnetet,leugnetet,leugnest,leugnete,leugne,leugnetest,leugnetest,leugne,leugnet,leugnete,leugneten,geleugnet,leugneten
 lieblos|ADJX	-0.4697	liebloserem,lieblose,liebloseren,lieblosestem,lieblosesten,liebloses,lieblosester,lieblosestes,liebloser,lieblosem,lieblosen,lieblosere,liebloseste,liebloserer,liebloseres
@@ -1326,21 +1326,21 @@ rächen|VVINF	-0.3489	,rächtet,rächtest,räche,räch,rächten,rächst,rächet,
 rückläufig|ADJX	-0.0544	rückläufige,rückläufigem,rückläufigen,rückläufiger,rückläufiges,rückläufigere,rückläufigerem,rückläufigeren,rückläufigerer,rückläufigeres,rückläufigste,rückläufigstem,rückläufigsten,rückläufigster,rückläufigstes
 rücksichtslos|ADJX	-0.4754	rücksichtslosen,rücksichtslosem,rücksichtslosestes,rücksichtslose,rücksichtslosester,rücksichtsloserer,rücksichtsloseres,rücksichtslosestem,rücksichtslosesten,rücksichtsloserem,rücksichtsloseste,rücksichtsloseren,rücksichtslosere,rücksichtsloses,rücksichtsloser
 rückständig|ADJX	-0.0048	rückständiger,rückständigerer,rückständiges,rückständigsten,rückständigerem,rückständigere,rückständigeren,rückständigstem,rückständige,rückständigster,rückständigste,rückständigen,rückständigeres,rückständigstes,rückständigem
-rückwärts|ADV	-0.3496	
+rückwärts|ADV	-0.3496
 rüde|ADJX	-0.0048	rüdestes,rüdester,rüdestem,rüdesten,rüd,rüder,rüdere,rüdes,rüdeste,rüderem,rüderen,rüderes,rüderer,rüdem,rüden
 sabotieren|VVINF	-0.0048	sabotiert,sabotiertest,sabotiertet,sabotieret,sabotierten,sabotierst,sabotierte,sabotierest,sabotiere
 sauer|ADJX	-0.0048	sauerstem,sauerste,sauersten,saurere,sauren,saurem,sauerster,saurerer,sauerstes,saureres,saurer,saurerem,saures,saure,saureren
-schade|ADJX	-0.0048	
+schade|ADJX	-0.0048
 schadhaft|ADJX	-0.0048	schadhaftem,schadhafteste,schadhaften,schadhaftere,schadhafteren,schadhafte,schadhafteres,schadhafter,schadhafterer,schadhafterem,schadhaftestem,schadhaftesten,schadhaftestes,schadhaftester,schadhaftes
 schal|ADJX	-0.0048	,schale,schalstem,schalsten,schaler,schalere,schales,schaleren,schalerem,schalen,schalster,schalem,schalerer,schalste,schalstes,schaleres
 schamlos|ADJX	-0.3332	schamloser,schamloserem,schamlosestes,schamloseren,schamloses,schamloseres,schamlosere,schamloserer,schamlosesten,schamlosestem,schamlosen,schamlosem,schamlosester,schamlose,schamloseste
 schauerlich|ADJX	-0.0048	schauerlichsten,schauerlicher,schauerlicheres,schauerliches,schauerlichstem,schauerlicherer,schauerliche,schauerlicherem,schauerlicheren,schauerlichem,schauerlichster,schauerlichen,schauerlichstes,schauerlichste,schauerlichere
 schaurig|ADJX	-0.0048	schaurigstes,schaurigster,schauriges,schauriger,schaurige,schaurigeres,schaurigerer,schaurigerem,schaurigste,schaurigeren,schaurigere,schaurigsten,schaurigem,schaurigen,schaurigstem
 scheiden|VVINF	-0.0557	scheide,scheidest,scheidet,schied,schiedest,schiedst,schieden,schiedet,geschieden
-scheiss|ADJX	-0.1838	
-scheisse|ADJX	-0.0226	
-scheiß|ADJX	-0.3381	
-scheiße|ADJX	-0.2945	
+scheiss|ADJX	-0.1838
+scheisse|ADJX	-0.0226
+scheiß|ADJX	-0.3381
+scheiße|ADJX	-0.2945
 schelten|VVINF	-0.3143	schelte,schilst,schilt,scheltet,scheltest,schalt,schaltest,schaltst,schalten,schaltet,schölte,schöltest,schölten,schöltet,gescholten
 scheusslich|ADJX	-0.0048	scheussliche,scheusslichem,scheusslichen,scheusslicher,scheussliches,scheusslichere,scheusslicherem,scheusslicheren,scheusslicherer,scheusslicheres,scheusslichste,scheusslichstem,scheusslichsten,scheusslichster,scheusslichstes
 scheußlich|ADJX	-0.1834	scheußlicher,scheußlicheres,scheußliches,scheußlichem,scheußlicherer,scheußlichen,scheußlichster,scheußliche,scheußlichsten,scheußlichstem,scheußlichere,scheußlicheren,scheußlicherem,scheußlichstes,scheußlichste
@@ -1355,7 +1355,7 @@ schleppend|ADJX	-0.0048	schleppendster,schleppende,schleppendstes,schleppenderes
 schlicht|ADJX	-0.623	schlichtes,schlichtere,schlichtem,schlichten,schlichterem,schlichter,schlichtesten,schlichteres,schlichte,schlichterer,schlichtestem,schlichteren,schlichtester,schlichteste,schlichtestes
 schließen|VVINF	-0.211	schließe,schließt,schließest,schließet,schloss,schloß,schlossest,schlosst,schloßt,schlossen,schlösse,schlössest,schlössen,schlösset,geschlossen
 schlimm|ADJX	-0.1705	schlimmste,schlimmstem,schlimmsten,schlimmer,schlimmes,schlimmerer,schlimmeren,schlimmerem,schlimmere,schlimmeres,schlimme,schlimmen,schlimmster,schlimmem,schlimmstes
-schlimmer|ADJX	-0.6494	
+schlimmer|ADJX	-0.6494
 schlotterig|ADJX	-0.0048	schlotterige,schlotterigem,schlotterigen,schlotteriger,schlotteriges,schlotterigere,schlotterigerem,schlotterigeren,schlotterigerer,schlotterigeres,schlotterigste,schlotterigstem,schlotterigsten,schlotterigster,schlotterigstes
 schlottern|VVINF	-0.0048	schlotterten,schlotterst,schlotterte,schlotteren,schlottert,geschlottert,schlottertest,schlottere,schlottertet
 schmerzen|VVINF	-0.3251	,schmerzten,schmerztet,schmerzet,schmerztest,schmerzte,geschmerzt,schmerzt,schmerze,schmerzest
@@ -1574,7 +1574,7 @@ unsportlich|ADJX	-0.32	unsportlichere,unsportlicher,unsportlichste,unsportliches
 unstetig|ADJX	-0.0048	unstetigstes,unstetigere,unstetigster,unstetigstem,unstetigsten,unstetiges,unstetigste,unstetiger,unstetigerer,unstetigeres,unstetigen,unstetigem,unstetigeren,unstetigerem,unstetige
 unsäglich|ADJX	-0.1834	unsäglichstem,unsäglichsten,unsäglichere,unsäglichem,unsäglicheres,unsäglichster,unsäglichstes,unsägliche,unsäglicherer,unsäglicher,unsägliches,unsäglicherem,unsäglicheren,unsäglichen,unsäglichste
 untauglich|ADJX	-0.5944	untauglichstes,untauglichster,untauglichere,untauglicherem,untauglichstem,untauglichsten,untaugliches,untauglichem,untauglicheres,untauglichen,untauglicherer,untauglicher,untauglicheren,untaugliche,untauglichste
-unten|ADV	-0.3334	
+unten|ADV	-0.3334
 unterbelichten|VVINF	-0.0426	unterbelichte,unterbelichtest,unterbelichtet,unterbelichtete,unterbelichtetest,unterbelichteten,unterbelichtetet
 unterbrechen|VVINF	-0.0048	unterbreche,unterbrichst,unterbricht,unterbrecht,unterbrechest,unterbrechet,unterbrach,unterbrachst,unterbrachen,unterbracht,unterbräche,unterbrächest,unterbrächst,unterbrächen,unterbrächet,unterbrächt
 unterdrücken|VVINF	-0.4825	unterdrücktet,unterdrückst,unterdrückte,unterdrückt,unterdrückest,unterdrücktest,unterdrücket,unterdrücke,untergedrückt,unterdrückten
@@ -1592,7 +1592,7 @@ untragbar|ADJX	-0.3247	untragbarer,untragbares,untragbareren,untragbarstem,untra
 untreu|ADJX	-0.3222	untreueres,untreuestem,untreue,untreustem,untreusten,untreuerer,untreustes,untreuster,untreueste,untreuer,untreues,untreuestes,untreuester,untreuen,untreuesten,untreuem,untreuste,untreuere,untreueren,untreuerem,untreuest
 untröstlich|ADJX	-0.3139	untröstlichstes,untröstlichster,untröstlicher,untröstlichen,untröstlichem,untröstlichere,untröstlicheres,untröstlicherer,untröstlicheren,untröstliche,untröstlicherem,untröstlichste,untröstlichstem,untröstlichsten,untröstliches
 unverantwortlich|ADJX	-0.4889	unverantwortlichste,unverantwortlichen,unverantwortlichem,unverantwortliches,unverantwortlicher,unverantwortlichere,unverantwortlicheres,unverantwortlicherer,unverantwortlicherem,unverantwortlichstes,unverantwortlicheren,unverantwortlichsten,unverantwortlichstem,unverantwortliche,unverantwortlichster
-unverantwortliche|ADJX	-0.3242	
+unverantwortliche|ADJX	-0.3242
 unverbesserlich|ADJX	-0.4363	unverbesserlicherem,unverbesserlicheren,unverbesserlichsten,unverbesserlicher,unverbesserlicherer,unverbesserlicheres,unverbesserliches,unverbesserlichstem,unverbesserlichster,unverbesserlichen,unverbesserlichstes,unverbesserlichem,unverbesserlichere,unverbesserliche,unverbesserlichste
 unvereinbar|ADJX	-0.0048	unvereinbareres,unvereinbarem,unvereinbarerer,unvereinbarstem,unvereinbarsten,unvereinbaren,unvereinbareren,unvereinbarerem,unvereinbarste,unvereinbare,unvereinbarer,unvereinbares,unvereinbarstes,unvereinbarster,unvereinbarere
 unverhältnismäßig|ADJX	-0.0048	unverhältnismäßigste,unverhältnismäßigerer,unverhältnismäßigeres,unverhältnismäßigerem,unverhältnismäßigem,unverhältnismäßigeren,unverhältnismäßigen,unverhältnismäßiges,unverhältnismäßiger,unverhältnismäßige,unverhältnismäßigster,unverhältnismäßigstes,unverhältnismäßigstem,unverhältnismäßigsten,unverhältnismäßigere
