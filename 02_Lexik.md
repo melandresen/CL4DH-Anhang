@@ -15,4 +15,6 @@
    | _der Kuchen_    | (50 · 1000) / 75000 = 0,67 |  25 / 0,67 = 37,50 |  log(37,50) = 5,23 |
    | _Kuchen backen_ |  (50 · 120) / 75000 = 0,08 | 25 / 0,08 = 312,50 | log(312,50) = 8,29 |
 
-3. (keine Musterlösung)
+3. (keine Musterlösung)-
+4. qwewq
+ewqeq
