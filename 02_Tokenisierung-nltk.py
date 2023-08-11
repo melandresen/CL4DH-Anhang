@@ -8,14 +8,14 @@ import nltk
 
 # nltk.download('punkt')
 
-text = '''Ich habe gerade Frau Dr. Meier getroffen. Das Buch erscheint in dritter Aufl. 
-Am Mittwoch fliege ich nach New York. Ich mag z.B. Enten.'''
+text = """Ich habe gerade Frau Dr. Meier getroffen. Das Buch erscheint in dritter Aufl.
+Am Mittwoch fliege ich nach New York. Ich mag z.B. Enten."""
 
 # Segmentierung in Sätze
-sent_tokenizer = nltk.data.load('tokenizers/punkt/german.pickle')
+sent_tokenizer = nltk.data.load("tokenizers/punkt/german.pickle")
 sentences = sent_tokenizer.tokenize(text)
 
 # Satzweise Segmentierung in Token
 for sentence in sentences:
-    tokens = nltk.word_tokenize(sentence, language='german')
+    tokens = nltk.word_tokenize(sentence, language="german")
     print(tokens)

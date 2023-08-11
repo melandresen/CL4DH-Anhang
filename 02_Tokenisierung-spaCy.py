@@ -5,11 +5,11 @@
 
 import spacy
 
-text = '''Ich habe gerade Frau Dr. Meier getroffen. Das Buch erscheint in dritter Aufl. 
-Am Mittwoch fliege ich nach New York. Ich mag z.B. Enten.'''
+text = """Ich habe gerade Frau Dr. Meier getroffen. Das Buch erscheint in dritter Aufl.
+Am Mittwoch fliege ich nach New York. Ich mag z.B. Enten."""
 
 # Laden des Modells
-nlp = spacy.load('de_core_news_sm')
+nlp = spacy.load("de_core_news_sm")
 
 # Linguistische Analyse des Textes
 doc = nlp(text)

@@ -5,10 +5,10 @@
 
 import spacy
 
-text = 'Im Teich in unserem Viertel schwimmen oft viele Enten.'
+text = "Im Teich in unserem Viertel schwimmen oft viele Enten."
 
 # Laden des Modells
-nlp = spacy.load('de_core_news_sm')
+nlp = spacy.load("de_core_news_sm")
 
 # Laden des Modells
 doc = nlp(text)

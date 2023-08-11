@@ -2,4 +2,5 @@
 
 1. (keine Musterlösung)
 2. (keine Musterlösung)
-3. Zur Exploration von WordNet in Python steht das Skript `05_WordNet.py` zur Verfügung.
+3. Zur Exploration von WordNet in Python steht das Skript `05_WordNet.py` zur
+   Verfügung.

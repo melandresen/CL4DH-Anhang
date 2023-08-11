@@ -5,10 +5,10 @@
 import nltk
 from HanTa import HanoverTagger as ht
 
-text = 'Im Teich in unserem Viertel schwimmen oft viele Enten.'
+text = "Im Teich in unserem Viertel schwimmen oft viele Enten."
 
 # Tagger mit deutschem Modell laden
-tagger_de = ht.HanoverTagger('morphmodel_ger.pgz')
+tagger_de = ht.HanoverTagger("morphmodel_ger.pgz")
 
 # Tokenisierung mit dem NLTK
 tokens = nltk.word_tokenize(text)

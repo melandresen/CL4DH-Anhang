@@ -8,7 +8,7 @@ import spacy
 text = "Frank Hansen kocht Nudeln in Stuttgart."
 
 # Laden des Modells
-nlp = spacy.load('de_core_news_sm')
+nlp = spacy.load("de_core_news_sm")
 
 # Linguistische Analyse des Textes
 doc = nlp(text)

@@ -6,12 +6,15 @@ import pandas as pd
 from sklearn.metrics import cohen_kappa_score
 
 # Erstellung des Datensatzes
-df = pd.DataFrame({'Person-1': 60*['Ente'] + 15*['Ente'] + 10*['Gans'] + 15*['Gans'],
-                   'Person-2': 60*['Ente'] + 15*['Gans'] + 10*['Ente'] + 15*['Gans']
-                   })
+df = pd.DataFrame(
+    {
+        "Person-1": 60 * ["Ente"] + 15 * ["Ente"] + 10 * ["Gans"] + 15 * ["Gans"],
+        "Person-2": 60 * ["Ente"] + 15 * ["Gans"] + 10 * ["Ente"] + 15 * ["Gans"],
+    }
+)
 
 print(df)
 
 # Berechnung und Ausgabe des Inter-Annotator-Agreements
-iaa = cohen_kappa_score(df['Person-1'], df['Person-2'])
+iaa = cohen_kappa_score(df["Person-1"], df["Person-2"])
 print(round(iaa, 3))

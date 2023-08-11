@@ -4,10 +4,10 @@
 
 import stanza
 
-text = '''Ich habe gerade Frau Dr. Meier getroffen. Das Buch erscheint in dritter Aufl. 
-Am Mittwoch fliege ich nach New York. Ich mag z.B. Enten.'''
+text = """Ich habe gerade Frau Dr. Meier getroffen. Das Buch erscheint in dritter Aufl.
+Am Mittwoch fliege ich nach New York. Ich mag z.B. Enten."""
 
-nlp = stanza.Pipeline('de', processors='tokenize')
+nlp = stanza.Pipeline("de", processors="tokenize")
 
 # Linguistische Analyse des Textes
 doc = nlp(text)

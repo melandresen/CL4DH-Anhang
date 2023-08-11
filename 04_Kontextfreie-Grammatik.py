@@ -8,10 +8,11 @@ import numpy as np
 def generate_sentence():
     """Funktion zur Kombination von Substantiven und Verben zu einfachen Sätzen"""
 
-    nouns = ['Ente', 'Welt', 'Karotte']
-    verbs = ['quakt', 'endet', 'schmeckt']
-    sentence = 'Die {} {}.'.format(np.random.choice(nouns, 1)[0],
-                                   np.random.choice(verbs, 1)[0])
+    nouns = ["Ente", "Welt", "Karotte"]
+    verbs = ["quakt", "endet", "schmeckt"]
+    sentence = "Die {} {}.".format(
+        np.random.choice(nouns, 1)[0], np.random.choice(verbs, 1)[0]
+    )
     return sentence
 
 

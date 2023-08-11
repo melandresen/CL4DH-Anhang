@@ -4,10 +4,10 @@
 
 import stanza
 
-text = 'Im Teich in unserem Viertel schwimmen oft viele Enten.'
+text = "Im Teich in unserem Viertel schwimmen oft viele Enten."
 
 # Laden des Modells
-nlp = stanza.Pipeline('de')
+nlp = stanza.Pipeline("de")
 
 # Linguistische Analyse des Textes
 doc = nlp(text)
@@ -16,6 +16,3 @@ doc = nlp(text)
 for sent in doc.sentences:
     for token in sent.words:
         print(token.id, token.text, token.deprel, token.head)
-
-
-

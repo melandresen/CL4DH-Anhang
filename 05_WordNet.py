@@ -8,12 +8,12 @@ import wn
 
 # wn.download('ewn:2020')
 
-wn_active = wn.Wordnet(lang='en')
+wn_active = wn.Wordnet(lang="en")
 
 # Auswahl und Ausgabe aller Synsets mit einem Eintrag für 'duck'
-synsets = wn_active.synsets('duck')
+synsets = wn_active.synsets("duck")
 
-print('\nSynsets:')
+print("\nSynsets:")
 for i, synset in enumerate(synsets):
     print(i, synset.definition())
 
@@ -21,12 +21,10 @@ for i, synset in enumerate(synsets):
 target = synsets[0]
 
 # Ausgabe von Hyponymen und Hyperonymen zum ausgwählten Synset
-print('\nHyponyme: ')
+print("\nHyponyme: ")
 for h in target.hyponyms():
     print(h.lemmas())
 
-print('\nHypernyme:')
-while target.hypernyms():
-    print(target.hypernyms()[0].lemmas())
-
-
+print("\nHyperonym:")
+for h in target.hypernyms():
+    print(h.lemmas())

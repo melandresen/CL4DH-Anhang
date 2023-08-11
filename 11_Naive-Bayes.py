@@ -5,13 +5,15 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
-corpus = ['Sie bauen Nester an Seen und Teichen.',
-          'In den Teichen schwimmen oft viele Enten.',
-          'Am Ufer sitzen zwei neugierige Stockenten',
-          'Maikäfer waren fast ausgestorben.',
-          'Die Weibchen tragen Pollen in die Nester.']
+corpus = [
+    "Sie bauen Nester an Seen und Teichen.",
+    "In den Teichen schwimmen oft viele Enten.",
+    "Am Ufer sitzen zwei neugierige Stockenten",
+    "Maikäfer waren fast ausgestorben.",
+    "Die Weibchen tragen Pollen in die Nester.",
+]
 
-labels = ['ente', 'ente', 'ente', 'keine-ente', 'keine-ente']
+labels = ["ente", "ente", "ente", "keine-ente", "keine-ente"]
 
 # Konvertierung der Textdaten in Frequenzen
 vectorizer = CountVectorizer()
@@ -22,8 +24,8 @@ model = MultinomialNB()
 model.fit(corpus_counts, labels)
 
 # Vorhersage für einen neuen Testsatz
-test = ['Nester an Teichen nicht anfassen!']
-test = vectorizer.transform(test).toarray()     # Testsatz wird in Frequenzen transformiert
+test = ["Nester an Teichen nicht anfassen!"]
+test = vectorizer.transform(test).toarray()  # Testsatz wird in Frequenzen transformiert
 
 pred = model.predict(test)
 print(pred)
