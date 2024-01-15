@@ -17,22 +17,22 @@
    | Konstituente                                   | Form                | Funktion         |
    |------------------------------------------------|---------------------|------------------|
    | Buchweizenmehl                                 | Nominalphrase       |  Akkusativobjekt |
-   | bekommt                                        |  Verbalphrase       |  Prädikat        |
-   | man                                            |  Nominalphrase      |  Subjekt         |
-   | mittlerweile                                   |  Adverbphrase       |  Adverbial       |
+   | bekommt                                        | Verbalphrase        |  Prädikat        |
+   | man                                            | Nominalphrase       |  Subjekt         |
+   | mittlerweile                                   | Adverbphrase        |  Adverbial       |
    | in allen guten Bio-Supermärkten und Drogerien  | Präpositionalphrase |  Adverbial       |
 
    c)
 
    | Konstituente           | Form                 | Funktion                                |
    |------------------------|----------------------|-----------------------------------------|
-   | Letztes Jahr im Winter |  Nominalphrase       |  Adverbial                              |
+   | Letztes Jahr im Winter |  Nominalphrase       | Adverbial                               |
    | habe                   | Verbalphrase         | Prädikat                                |
    | ich                    | Nominalphrase        | Subjekt                                 |
-   | mich                   | Nominalphrase        | als Reflexivpronomen Teil des Prädikats |
+   | mich                   | Nominalphrase        | als [Reflexivpronomen](https://grammis.ids-mannheim.de/terminologie/223) Teil des Prädikats |
    | das erste Mal          | Nominalphrase        | Adverbial                               |
    | an Linseneintopf       | Präpositionalphrase  | Präpositionalobjekt                     |
-   | gewagt                 | Verbalphrase         |  Prädikat                               |
+   | gewagt                 | Verbalphrase         | Prädikat                                |
 
    d)
 
@@ -41,7 +41,7 @@
    | Wir                         | Nominalphrase  | Subjekt         |
    | haben                       | Verbalphrase   | Prädikat        |
    | unserer Experimentierlust   | Nominalphrase  | Dativobjekt     |
-   | freien Lauf                 | Nominalphrase  | Akkusativobjekt |
+   | freien Lauf                 | Nominalphrase  | formal einem Akkusativobjekt ähnlich, bildet hier aber mit *gelassen* ein sog. [Funktionsverbgefüge](https://grammis.ids-mannheim.de/terminologie/85) und ist damit Teil des Prädikats |
    | gelassen                    | Verbalphrase   | Prädikat        |
 
    e)
